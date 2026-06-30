@@ -1,0 +1,98 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment files (keep .env.example)
+.env
+.env.local
+.env.production
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# ML Models & Large Artifacts
+models/*.pkl
+models/*.joblib
+models/*.h5
+models/shap_values.pkl
+!models/.gitkeep
+
+# Data files (raw/processed CSVs can be large)
+data/raw/*.csv
+data/processed/*.csv
+data/staging/*.csv
+data/analytics/*.csv
+data/exports/*.csv
+# Keep synthetic data (it's generated, not real)
+!data/synthetic/*.csv
+!data/.gitkeep
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/staging/.gitkeep
+!data/analytics/.gitkeep
+!data/exports/.gitkeep
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/
+*.log
+
+# Coverage
+.coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+
+# Docker
+.docker/
+
+# dbt
+dbt/peoplelens/target/
+dbt/peoplelens/dbt_packages/
+dbt/peoplelens/logs/
+
+# Node (if any frontend tooling)
+node_modules/
+
+# OS
+Thumbs.db
