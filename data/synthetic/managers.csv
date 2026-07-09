@@ -1,0 +1,1501 @@
+manager_id,employee_id,department,location,team_size,targeted_team_size,experience_years
+MGR0001,204742,Data Science,Noida,0,9,18
+MGR0002,228329,Marketing,Hyderabad,0,12,8
+MGR0003,229113,HR,Noida,0,11,11
+MGR0004,226003,Sales,Hyderabad,0,9,10
+MGR0005,209501,Support,Noida,0,9,18
+MGR0006,214572,Support,Bengaluru,0,14,17
+MGR0007,228128,Sales,Hyderabad,0,8,8
+MGR0008,225635,Sales,Noida,0,11,9
+MGR0009,232228,Support,Noida,0,8,11
+MGR0010,214606,Cyber Security,Bengaluru,0,11,16
+MGR0011,202665,Sales,Mumbai,0,14,19
+MGR0012,223908,Data Science,Mumbai,0,15,11
+MGR0013,217770,Engineering,Chennai,0,12,17
+MGR0014,228257,Marketing,Bengaluru,0,8,20
+MGR0015,234827,HR,Pune,0,10,20
+MGR0016,222835,Finance,Mumbai,0,14,19
+MGR0017,212145,Cyber Security,Mumbai,0,12,13
+MGR0018,232469,Cloud,Noida,0,11,10
+MGR0019,222942,Cyber Security,Noida,0,13,20
+MGR0020,213599,Cloud,Chennai,0,9,9
+MGR0021,203031,Data Science,Mumbai,0,9,14
+MGR0022,220226,Marketing,Chennai,0,13,13
+MGR0023,224649,Cloud,Pune,0,12,17
+MGR0024,206952,Sales,Bengaluru,0,8,20
+MGR0025,204132,HR,Noida,0,15,19
+MGR0026,211391,Sales,Mumbai,0,9,16
+MGR0027,212432,Support,Hyderabad,0,14,22
+MGR0028,209157,Support,Mumbai,0,12,9
+MGR0029,214248,Cloud,Hyderabad,0,13,21
+MGR0030,211666,Cloud,Hyderabad,0,11,17
+MGR0031,231843,Sales,Chennai,0,9,19
+MGR0032,217866,Cyber Security,Mumbai,0,11,8
+MGR0033,219342,HR,Mumbai,0,12,20
+MGR0034,222548,Support,Hyderabad,0,11,9
+MGR0035,232537,Engineering,Mumbai,0,9,21
+MGR0036,213718,Engineering,Chennai,0,12,14
+MGR0037,214030,Finance,Noida,0,13,15
+MGR0038,221738,Engineering,Bengaluru,0,13,10
+MGR0039,217888,HR,Pune,0,11,13
+MGR0040,206206,Cyber Security,Noida,0,12,18
+MGR0041,231392,HR,Pune,0,9,19
+MGR0042,210455,Sales,Chennai,0,10,17
+MGR0043,226772,Engineering,Bengaluru,0,11,16
+MGR0044,211212,Engineering,Bengaluru,0,15,10
+MGR0045,230512,Cyber Security,Pune,0,12,14
+MGR0046,228998,HR,Hyderabad,0,11,22
+MGR0047,204458,Support,Noida,0,13,18
+MGR0048,229804,Cyber Security,Mumbai,0,8,21
+MGR0049,205823,Marketing,Noida,0,8,11
+MGR0050,230595,Cyber Security,Mumbai,0,13,20
+MGR0051,213036,Marketing,Pune,0,12,14
+MGR0052,233118,Marketing,Chennai,0,11,9
+MGR0053,220175,Support,Noida,0,13,22
+MGR0054,213565,Marketing,Hyderabad,0,15,11
+MGR0055,214645,Finance,Mumbai,0,15,14
+MGR0056,204580,Cyber Security,Noida,0,12,10
+MGR0057,226540,Marketing,Mumbai,0,11,10
+MGR0058,214541,Cyber Security,Chennai,0,12,19
+MGR0059,213396,Support,Mumbai,0,14,19
+MGR0060,201758,Support,Chennai,0,14,22
+MGR0061,200670,Finance,Pune,0,11,13
+MGR0062,221660,Marketing,Chennai,0,15,10
+MGR0063,205520,HR,Bengaluru,0,8,9
+MGR0064,204551,Cyber Security,Noida,0,9,21
+MGR0065,214559,HR,Mumbai,0,10,10
+MGR0066,223225,Sales,Noida,0,14,20
+MGR0067,212045,Engineering,Bengaluru,0,9,17
+MGR0068,221709,Cyber Security,Chennai,0,14,14
+MGR0069,204358,Data Science,Mumbai,0,15,17
+MGR0070,231763,Cyber Security,Bengaluru,0,12,16
+MGR0071,222977,Cloud,Hyderabad,0,8,16
+MGR0072,218197,HR,Noida,0,9,18
+MGR0073,222733,Cyber Security,Pune,0,12,18
+MGR0074,218944,Engineering,Hyderabad,0,13,20
+MGR0075,222392,Sales,Chennai,0,12,9
+MGR0076,211207,Data Science,Hyderabad,0,10,14
+MGR0077,215664,Cloud,Chennai,0,8,15
+MGR0078,221552,Data Science,Pune,0,12,19
+MGR0079,216649,Support,Pune,0,10,16
+MGR0080,204154,Cloud,Mumbai,0,9,16
+MGR0081,211477,Cyber Security,Noida,0,12,21
+MGR0082,205542,HR,Mumbai,0,11,21
+MGR0083,234379,Support,Chennai,0,13,10
+MGR0084,206706,Sales,Pune,0,10,20
+MGR0085,205857,Marketing,Chennai,0,8,16
+MGR0086,230668,Cloud,Mumbai,0,13,17
+MGR0087,209897,HR,Hyderabad,0,8,15
+MGR0088,200385,Support,Mumbai,0,13,9
+MGR0089,213321,Cloud,Pune,0,12,22
+MGR0090,211783,Support,Chennai,0,8,11
+MGR0091,217773,Cloud,Pune,0,9,11
+MGR0092,227803,Marketing,Hyderabad,0,15,9
+MGR0093,222523,Support,Bengaluru,0,9,21
+MGR0094,216056,HR,Chennai,0,10,20
+MGR0095,217957,Sales,Hyderabad,0,15,10
+MGR0096,204669,HR,Pune,0,10,16
+MGR0097,201635,Cloud,Hyderabad,0,14,12
+MGR0098,206272,Data Science,Hyderabad,0,11,11
+MGR0099,200783,Marketing,Chennai,0,12,19
+MGR0100,229741,Engineering,Chennai,0,13,14
+MGR0101,202069,Sales,Bengaluru,0,15,15
+MGR0102,223266,Sales,Chennai,0,11,9
+MGR0103,201839,Sales,Mumbai,0,9,11
+MGR0104,210866,Data Science,Hyderabad,0,8,13
+MGR0105,202040,Sales,Noida,0,11,17
+MGR0106,222566,Engineering,Chennai,0,11,17
+MGR0107,216470,Sales,Hyderabad,0,9,8
+MGR0108,215343,Sales,Pune,0,8,19
+MGR0109,215311,Cyber Security,Noida,0,9,11
+MGR0110,219632,HR,Mumbai,0,8,22
+MGR0111,205123,Sales,Hyderabad,0,13,21
+MGR0112,213330,Cyber Security,Hyderabad,0,11,9
+MGR0113,232741,Engineering,Bengaluru,0,15,12
+MGR0114,225645,Marketing,Noida,0,10,11
+MGR0115,210389,HR,Noida,0,15,19
+MGR0116,203828,Cloud,Noida,0,15,11
+MGR0117,204780,Engineering,Chennai,0,14,20
+MGR0118,200866,Sales,Pune,0,9,11
+MGR0119,220308,Cyber Security,Bengaluru,0,14,9
+MGR0120,230601,Finance,Pune,0,14,13
+MGR0121,223737,Finance,Noida,0,15,14
+MGR0122,208444,Engineering,Pune,0,8,21
+MGR0123,209305,Engineering,Bengaluru,0,9,18
+MGR0124,210164,Cloud,Noida,0,14,8
+MGR0125,219230,Sales,Pune,0,13,19
+MGR0126,234411,Data Science,Bengaluru,0,9,20
+MGR0127,222754,Cyber Security,Chennai,0,11,11
+MGR0128,232026,Engineering,Pune,0,15,11
+MGR0129,200753,Engineering,Mumbai,0,14,10
+MGR0130,230696,Support,Pune,0,12,10
+MGR0131,208976,Sales,Hyderabad,0,11,15
+MGR0132,217451,Cyber Security,Mumbai,0,9,21
+MGR0133,223032,Marketing,Mumbai,0,9,15
+MGR0134,218309,Cyber Security,Hyderabad,0,8,8
+MGR0135,218886,Sales,Bengaluru,0,11,9
+MGR0136,203088,Engineering,Hyderabad,0,14,10
+MGR0137,208728,Finance,Hyderabad,0,15,15
+MGR0138,210451,Data Science,Hyderabad,0,14,11
+MGR0139,207496,Cloud,Hyderabad,0,8,22
+MGR0140,205884,Support,Noida,0,14,10
+MGR0141,213908,Cloud,Noida,0,14,8
+MGR0142,214573,Data Science,Pune,0,15,12
+MGR0143,202486,Marketing,Pune,0,14,12
+MGR0144,232966,Data Science,Noida,0,15,19
+MGR0145,227429,Sales,Noida,0,11,10
+MGR0146,222872,Cyber Security,Bengaluru,0,11,12
+MGR0147,209716,Engineering,Chennai,0,8,8
+MGR0148,204783,Support,Pune,0,13,19
+MGR0149,229632,HR,Bengaluru,0,8,8
+MGR0150,208609,Sales,Hyderabad,0,15,17
+MGR0151,227061,Engineering,Bengaluru,0,10,16
+MGR0152,202460,Sales,Hyderabad,0,9,8
+MGR0153,204057,Sales,Hyderabad,0,10,21
+MGR0154,228895,Cloud,Mumbai,0,9,9
+MGR0155,225835,Finance,Chennai,0,11,18
+MGR0156,201685,Cyber Security,Noida,0,9,14
+MGR0157,215257,Cloud,Hyderabad,0,11,22
+MGR0158,234493,Finance,Bengaluru,0,8,17
+MGR0159,202052,Marketing,Chennai,0,9,17
+MGR0160,202100,Cloud,Mumbai,0,13,14
+MGR0161,226780,HR,Pune,0,12,22
+MGR0162,226050,Finance,Chennai,0,13,11
+MGR0163,200903,Support,Mumbai,0,12,11
+MGR0164,228362,Engineering,Bengaluru,0,10,14
+MGR0165,225137,HR,Chennai,0,12,18
+MGR0166,220601,Marketing,Hyderabad,0,13,15
+MGR0167,234123,Support,Hyderabad,0,9,22
+MGR0168,214110,Engineering,Pune,0,15,8
+MGR0169,203521,Cloud,Mumbai,0,9,17
+MGR0170,210340,Finance,Pune,0,11,9
+MGR0171,212861,Marketing,Mumbai,0,12,16
+MGR0172,229570,Cloud,Mumbai,0,13,10
+MGR0173,202281,Cyber Security,Noida,0,9,22
+MGR0174,226746,Support,Pune,0,11,22
+MGR0175,221526,Engineering,Pune,0,12,13
+MGR0176,219759,Marketing,Hyderabad,0,15,10
+MGR0177,218219,Finance,Hyderabad,0,12,21
+MGR0178,214944,Sales,Noida,0,8,17
+MGR0179,223826,Engineering,Bengaluru,0,12,18
+MGR0180,203675,Finance,Hyderabad,0,9,22
+MGR0181,228561,Data Science,Noida,0,10,22
+MGR0182,215240,Finance,Pune,0,9,12
+MGR0183,228716,Finance,Noida,0,9,22
+MGR0184,229167,Marketing,Pune,0,10,19
+MGR0185,214608,Engineering,Hyderabad,0,12,12
+MGR0186,211946,Data Science,Hyderabad,0,11,17
+MGR0187,209019,Data Science,Hyderabad,0,13,19
+MGR0188,207357,Support,Chennai,0,12,11
+MGR0189,205251,Cloud,Chennai,0,15,16
+MGR0190,214859,Sales,Pune,0,8,12
+MGR0191,211790,Finance,Mumbai,0,14,9
+MGR0192,223832,Data Science,Pune,0,12,21
+MGR0193,218173,Marketing,Noida,0,8,8
+MGR0194,214124,Finance,Noida,0,10,13
+MGR0195,231494,Support,Bengaluru,0,12,18
+MGR0196,206531,Data Science,Chennai,0,15,10
+MGR0197,222265,Cyber Security,Pune,0,14,16
+MGR0198,227923,Finance,Pune,0,8,16
+MGR0199,214815,Sales,Chennai,0,9,9
+MGR0200,234627,Marketing,Chennai,0,10,22
+MGR0201,207763,Sales,Bengaluru,0,8,16
+MGR0202,202782,Support,Pune,0,13,21
+MGR0203,221333,HR,Noida,0,10,17
+MGR0204,219665,Engineering,Pune,0,10,14
+MGR0205,203844,Data Science,Chennai,0,12,8
+MGR0206,201883,Cyber Security,Pune,0,8,13
+MGR0207,209538,HR,Hyderabad,0,13,22
+MGR0208,226083,Engineering,Hyderabad,0,11,11
+MGR0209,211140,Cyber Security,Mumbai,0,9,18
+MGR0210,200348,Data Science,Pune,0,14,13
+MGR0211,233579,Cyber Security,Pune,0,10,17
+MGR0212,226718,Engineering,Mumbai,0,11,22
+MGR0213,209398,Cyber Security,Bengaluru,0,10,21
+MGR0214,215485,HR,Hyderabad,0,10,20
+MGR0215,203821,Sales,Hyderabad,0,14,22
+MGR0216,215221,Support,Bengaluru,0,10,8
+MGR0217,229249,Support,Chennai,0,13,19
+MGR0218,215746,Data Science,Bengaluru,0,14,20
+MGR0219,229829,Cyber Security,Bengaluru,0,11,20
+MGR0220,228892,Sales,Hyderabad,0,10,12
+MGR0221,234561,Cloud,Hyderabad,0,9,20
+MGR0222,203999,Support,Pune,0,8,14
+MGR0223,221727,Data Science,Mumbai,0,15,21
+MGR0224,222498,HR,Chennai,0,11,11
+MGR0225,234176,Engineering,Noida,0,15,21
+MGR0226,231285,Support,Pune,0,12,13
+MGR0227,219081,Support,Noida,0,11,21
+MGR0228,230436,Cloud,Noida,0,8,11
+MGR0229,231952,HR,Noida,0,11,18
+MGR0230,217114,Marketing,Chennai,0,13,14
+MGR0231,202407,Cloud,Chennai,0,9,12
+MGR0232,209089,HR,Pune,0,12,20
+MGR0233,201266,Sales,Noida,0,14,13
+MGR0234,208231,Data Science,Pune,0,13,18
+MGR0235,228260,Cloud,Hyderabad,0,9,8
+MGR0236,209780,Cyber Security,Noida,0,12,22
+MGR0237,230832,Finance,Pune,0,12,10
+MGR0238,201853,Sales,Hyderabad,0,9,8
+MGR0239,223710,Support,Bengaluru,0,14,17
+MGR0240,219724,Engineering,Mumbai,0,13,13
+MGR0241,214227,Sales,Mumbai,0,9,14
+MGR0242,222079,Support,Bengaluru,0,11,14
+MGR0243,232001,Support,Pune,0,8,12
+MGR0244,226049,Sales,Chennai,0,14,19
+MGR0245,205350,Engineering,Chennai,0,11,8
+MGR0246,227007,Finance,Pune,0,14,13
+MGR0247,208030,Finance,Chennai,0,13,9
+MGR0248,217777,Finance,Mumbai,0,13,17
+MGR0249,228323,Sales,Noida,0,9,18
+MGR0250,228248,HR,Bengaluru,0,12,19
+MGR0251,213129,Cloud,Bengaluru,0,12,16
+MGR0252,210169,Cyber Security,Noida,0,14,18
+MGR0253,208367,Sales,Hyderabad,0,14,13
+MGR0254,225472,HR,Chennai,0,12,19
+MGR0255,207103,Sales,Chennai,0,10,16
+MGR0256,224218,Finance,Pune,0,14,11
+MGR0257,206288,Engineering,Hyderabad,0,14,18
+MGR0258,204303,Marketing,Mumbai,0,10,18
+MGR0259,204217,Data Science,Chennai,0,12,17
+MGR0260,223007,Engineering,Bengaluru,0,8,14
+MGR0261,203478,Sales,Hyderabad,0,12,12
+MGR0262,203980,Engineering,Chennai,0,14,11
+MGR0263,200724,Sales,Bengaluru,0,13,20
+MGR0264,234297,Data Science,Chennai,0,15,15
+MGR0265,232512,HR,Bengaluru,0,11,15
+MGR0266,232439,Cloud,Noida,0,15,16
+MGR0267,200589,Support,Bengaluru,0,10,20
+MGR0268,218819,Sales,Pune,0,9,18
+MGR0269,217679,Cloud,Bengaluru,0,13,12
+MGR0270,225389,Engineering,Noida,0,11,9
+MGR0271,226087,Sales,Hyderabad,0,12,18
+MGR0272,220124,Finance,Chennai,0,11,11
+MGR0273,204874,Cloud,Chennai,0,8,10
+MGR0274,228484,Marketing,Hyderabad,0,11,8
+MGR0275,233519,Cloud,Chennai,0,9,15
+MGR0276,219207,HR,Chennai,0,14,15
+MGR0277,205715,Engineering,Hyderabad,0,11,22
+MGR0278,223681,Data Science,Pune,0,14,19
+MGR0279,208649,Cyber Security,Chennai,0,14,15
+MGR0280,213901,Finance,Chennai,0,10,11
+MGR0281,228806,Support,Mumbai,0,8,18
+MGR0282,203872,Data Science,Mumbai,0,9,22
+MGR0283,231438,Data Science,Noida,0,14,20
+MGR0284,228798,Data Science,Hyderabad,0,10,11
+MGR0285,212693,Engineering,Pune,0,15,20
+MGR0286,226056,Finance,Mumbai,0,11,8
+MGR0287,212647,Data Science,Chennai,0,9,22
+MGR0288,226404,Cloud,Pune,0,10,15
+MGR0289,232175,Cloud,Mumbai,0,15,20
+MGR0290,210939,Engineering,Pune,0,13,18
+MGR0291,207988,HR,Noida,0,15,20
+MGR0292,217404,Sales,Noida,0,14,17
+MGR0293,205630,Finance,Noida,0,15,21
+MGR0294,234048,Support,Noida,0,10,22
+MGR0295,201582,HR,Pune,0,15,19
+MGR0296,210210,Sales,Chennai,0,12,15
+MGR0297,205175,Marketing,Noida,0,11,20
+MGR0298,206468,Finance,Mumbai,0,12,21
+MGR0299,207663,Cyber Security,Chennai,0,15,20
+MGR0300,211121,Engineering,Mumbai,0,11,18
+MGR0301,220266,Support,Chennai,0,15,12
+MGR0302,232178,Data Science,Mumbai,0,12,9
+MGR0303,232901,Engineering,Bengaluru,0,12,11
+MGR0304,234399,Data Science,Hyderabad,0,13,13
+MGR0305,204453,Support,Chennai,0,9,22
+MGR0306,229725,Finance,Mumbai,0,10,10
+MGR0307,229575,Data Science,Chennai,0,14,11
+MGR0308,231698,Data Science,Pune,0,10,19
+MGR0309,221621,Cyber Security,Pune,0,11,19
+MGR0310,220189,Cloud,Bengaluru,0,14,9
+MGR0311,212306,Support,Pune,0,13,14
+MGR0312,200899,Sales,Noida,0,15,16
+MGR0313,213190,Data Science,Noida,0,8,14
+MGR0314,229353,Cloud,Pune,0,14,11
+MGR0315,228481,Data Science,Chennai,0,8,14
+MGR0316,216837,Cyber Security,Pune,0,14,21
+MGR0317,223987,Support,Hyderabad,0,8,15
+MGR0318,205698,Sales,Noida,0,12,13
+MGR0319,216173,Engineering,Mumbai,0,14,20
+MGR0320,215346,Sales,Bengaluru,0,14,21
+MGR0321,211104,Sales,Noida,0,11,16
+MGR0322,224289,HR,Bengaluru,0,11,15
+MGR0323,204744,Cyber Security,Chennai,0,14,12
+MGR0324,204743,Sales,Chennai,0,8,15
+MGR0325,234940,Cyber Security,Pune,0,13,14
+MGR0326,220944,HR,Bengaluru,0,14,18
+MGR0327,227697,Engineering,Chennai,0,10,19
+MGR0328,232758,Marketing,Mumbai,0,15,21
+MGR0329,219974,Data Science,Bengaluru,0,10,22
+MGR0330,232170,Data Science,Pune,0,8,17
+MGR0331,223226,Cyber Security,Bengaluru,0,14,22
+MGR0332,224841,Sales,Bengaluru,0,8,17
+MGR0333,218236,Sales,Hyderabad,0,14,9
+MGR0334,221422,Sales,Chennai,0,15,10
+MGR0335,215173,Cyber Security,Hyderabad,0,8,10
+MGR0336,201287,Data Science,Pune,0,14,12
+MGR0337,221759,Marketing,Pune,0,11,13
+MGR0338,229073,Marketing,Chennai,0,13,15
+MGR0339,224891,Cyber Security,Chennai,0,14,13
+MGR0340,210055,Data Science,Noida,0,14,12
+MGR0341,224387,Data Science,Hyderabad,0,9,12
+MGR0342,225152,Sales,Chennai,0,8,15
+MGR0343,215076,HR,Mumbai,0,8,19
+MGR0344,228528,Sales,Chennai,0,11,13
+MGR0345,228983,Finance,Pune,0,9,18
+MGR0346,230349,HR,Chennai,0,8,20
+MGR0347,224434,Finance,Mumbai,0,8,20
+MGR0348,218614,Marketing,Chennai,0,11,11
+MGR0349,214111,Sales,Bengaluru,0,8,21
+MGR0350,207760,Engineering,Noida,0,10,17
+MGR0351,212658,Finance,Pune,0,10,11
+MGR0352,220119,Support,Bengaluru,0,9,15
+MGR0353,202257,HR,Pune,0,11,17
+MGR0354,226392,Cyber Security,Noida,0,12,15
+MGR0355,218840,Sales,Noida,0,13,20
+MGR0356,225604,Data Science,Mumbai,0,9,10
+MGR0357,203994,Sales,Bengaluru,0,10,20
+MGR0358,204837,Finance,Chennai,0,9,12
+MGR0359,205967,Sales,Pune,0,8,17
+MGR0360,210311,Cloud,Mumbai,0,12,22
+MGR0361,205275,Finance,Mumbai,0,14,17
+MGR0362,231090,Support,Chennai,0,11,14
+MGR0363,203075,Finance,Mumbai,0,11,9
+MGR0364,207658,Finance,Hyderabad,0,12,9
+MGR0365,214073,Cloud,Bengaluru,0,9,21
+MGR0366,224633,Engineering,Bengaluru,0,8,20
+MGR0367,221996,Cyber Security,Mumbai,0,14,13
+MGR0368,219915,Cloud,Pune,0,13,18
+MGR0369,208593,HR,Noida,0,13,9
+MGR0370,208505,HR,Noida,0,14,8
+MGR0371,221851,Cloud,Noida,0,15,21
+MGR0372,233361,Data Science,Pune,0,14,9
+MGR0373,211673,Cyber Security,Noida,0,15,13
+MGR0374,230538,Marketing,Mumbai,0,10,19
+MGR0375,221085,Support,Noida,0,10,14
+MGR0376,218895,Data Science,Mumbai,0,12,19
+MGR0377,219857,HR,Mumbai,0,15,17
+MGR0378,224790,Cyber Security,Pune,0,14,15
+MGR0379,230852,Cyber Security,Noida,0,12,21
+MGR0380,223483,Cyber Security,Pune,0,11,13
+MGR0381,200197,Marketing,Hyderabad,0,9,21
+MGR0382,228096,Engineering,Bengaluru,0,15,12
+MGR0383,206327,Finance,Noida,0,15,11
+MGR0384,207281,Engineering,Hyderabad,0,14,17
+MGR0385,217925,Engineering,Hyderabad,0,8,13
+MGR0386,234963,HR,Pune,0,13,15
+MGR0387,214742,Data Science,Noida,0,15,10
+MGR0388,206195,Sales,Bengaluru,0,13,11
+MGR0389,204590,Cyber Security,Mumbai,0,12,20
+MGR0390,231323,Finance,Hyderabad,0,12,13
+MGR0391,200449,Engineering,Pune,0,12,22
+MGR0392,200560,HR,Chennai,0,8,16
+MGR0393,223316,Support,Chennai,0,11,16
+MGR0394,218620,Support,Chennai,0,11,9
+MGR0395,222800,Cloud,Chennai,0,14,19
+MGR0396,225009,Data Science,Noida,0,11,15
+MGR0397,205742,Data Science,Mumbai,0,15,19
+MGR0398,229124,Support,Mumbai,0,15,18
+MGR0399,205624,HR,Pune,0,8,15
+MGR0400,234896,HR,Chennai,0,12,9
+MGR0401,229846,Engineering,Chennai,0,14,11
+MGR0402,210272,Marketing,Bengaluru,0,11,19
+MGR0403,201669,Finance,Noida,0,13,12
+MGR0404,230106,Marketing,Hyderabad,0,13,15
+MGR0405,206158,Finance,Pune,0,13,14
+MGR0406,214268,HR,Hyderabad,0,15,13
+MGR0407,219753,Engineering,Noida,0,12,12
+MGR0408,216845,Cloud,Mumbai,0,11,12
+MGR0409,212524,Engineering,Noida,0,11,9
+MGR0410,234623,Support,Chennai,0,9,13
+MGR0411,229973,HR,Chennai,0,10,19
+MGR0412,200598,HR,Mumbai,0,11,11
+MGR0413,216057,Engineering,Mumbai,0,15,19
+MGR0414,224211,Engineering,Mumbai,0,12,12
+MGR0415,220136,Finance,Hyderabad,0,11,9
+MGR0416,214605,Support,Bengaluru,0,11,12
+MGR0417,206225,Data Science,Mumbai,0,10,13
+MGR0418,202690,Engineering,Mumbai,0,8,12
+MGR0419,205660,Cyber Security,Chennai,0,10,19
+MGR0420,202727,Marketing,Pune,0,8,12
+MGR0421,206209,Sales,Bengaluru,0,12,8
+MGR0422,230402,HR,Bengaluru,0,10,19
+MGR0423,202741,Support,Mumbai,0,15,18
+MGR0424,231961,Cyber Security,Noida,0,8,9
+MGR0425,227662,HR,Noida,0,12,17
+MGR0426,223600,HR,Bengaluru,0,15,15
+MGR0427,201934,Engineering,Noida,0,13,15
+MGR0428,201494,Engineering,Bengaluru,0,8,10
+MGR0429,234189,Sales,Noida,0,15,12
+MGR0430,215849,Sales,Mumbai,0,9,9
+MGR0431,228775,Cyber Security,Hyderabad,0,15,14
+MGR0432,203928,Support,Pune,0,8,9
+MGR0433,233107,Cloud,Hyderabad,0,10,10
+MGR0434,215270,Cyber Security,Hyderabad,0,12,20
+MGR0435,200541,Marketing,Chennai,0,11,9
+MGR0436,217513,Marketing,Hyderabad,0,14,9
+MGR0437,216321,Cyber Security,Hyderabad,0,11,17
+MGR0438,225157,Cloud,Noida,0,14,20
+MGR0439,210628,Finance,Bengaluru,0,15,15
+MGR0440,225340,Engineering,Noida,0,14,12
+MGR0441,208358,HR,Hyderabad,0,8,12
+MGR0442,227344,Marketing,Pune,0,9,17
+MGR0443,204273,HR,Pune,0,11,20
+MGR0444,224956,Marketing,Hyderabad,0,11,18
+MGR0445,202533,Sales,Pune,0,9,12
+MGR0446,209529,HR,Mumbai,0,11,10
+MGR0447,200180,Cloud,Mumbai,0,9,10
+MGR0448,214891,Cloud,Mumbai,0,8,10
+MGR0449,203061,Data Science,Chennai,0,15,14
+MGR0450,204022,Sales,Pune,0,15,19
+MGR0451,214771,Cloud,Bengaluru,0,8,12
+MGR0452,215362,Sales,Mumbai,0,12,11
+MGR0453,220044,HR,Pune,0,12,19
+MGR0454,223294,Engineering,Pune,0,15,19
+MGR0455,211906,Support,Mumbai,0,11,9
+MGR0456,208479,Engineering,Hyderabad,0,12,22
+MGR0457,205409,Data Science,Mumbai,0,11,20
+MGR0458,226053,Engineering,Mumbai,0,9,14
+MGR0459,207510,Finance,Chennai,0,11,16
+MGR0460,231665,Support,Bengaluru,0,10,18
+MGR0461,207870,Support,Pune,0,12,22
+MGR0462,216747,Data Science,Chennai,0,10,21
+MGR0463,234959,Marketing,Mumbai,0,8,9
+MGR0464,204662,Sales,Hyderabad,0,12,10
+MGR0465,216172,Engineering,Bengaluru,0,12,17
+MGR0466,231724,Marketing,Hyderabad,0,9,15
+MGR0467,226789,HR,Mumbai,0,12,15
+MGR0468,216852,Support,Chennai,0,14,19
+MGR0469,220348,Cloud,Noida,0,15,12
+MGR0470,201435,Sales,Noida,0,9,15
+MGR0471,206505,Cloud,Bengaluru,0,8,17
+MGR0472,207231,Support,Hyderabad,0,14,22
+MGR0473,207338,Support,Chennai,0,13,19
+MGR0474,217010,Cloud,Noida,0,12,17
+MGR0475,230845,Sales,Hyderabad,0,9,8
+MGR0476,206297,Cloud,Noida,0,8,11
+MGR0477,214984,Sales,Bengaluru,0,12,20
+MGR0478,226220,Engineering,Pune,0,8,17
+MGR0479,232706,Support,Bengaluru,0,10,20
+MGR0480,210688,Cyber Security,Pune,0,15,15
+MGR0481,200567,Cyber Security,Mumbai,0,12,22
+MGR0482,232306,Engineering,Chennai,0,14,10
+MGR0483,209559,Data Science,Noida,0,15,18
+MGR0484,222373,Marketing,Hyderabad,0,15,9
+MGR0485,234293,Cyber Security,Hyderabad,0,14,13
+MGR0486,228370,Finance,Hyderabad,0,13,13
+MGR0487,218843,Finance,Bengaluru,0,9,18
+MGR0488,208154,Data Science,Mumbai,0,10,21
+MGR0489,200092,Cloud,Mumbai,0,14,13
+MGR0490,209135,Support,Chennai,0,15,19
+MGR0491,204127,Marketing,Mumbai,0,14,12
+MGR0492,205902,HR,Noida,0,8,21
+MGR0493,200375,Finance,Chennai,0,9,15
+MGR0494,216847,Marketing,Chennai,0,12,13
+MGR0495,218145,Data Science,Pune,0,9,13
+MGR0496,210018,Finance,Noida,0,14,20
+MGR0497,220676,Cloud,Pune,0,8,21
+MGR0498,233171,Cyber Security,Chennai,0,15,18
+MGR0499,206984,Marketing,Pune,0,8,14
+MGR0500,223905,Data Science,Hyderabad,0,13,11
+MGR0501,218014,Marketing,Hyderabad,0,15,17
+MGR0502,230818,Engineering,Chennai,0,15,18
+MGR0503,224146,Finance,Mumbai,0,8,20
+MGR0504,217505,Data Science,Bengaluru,0,12,11
+MGR0505,200831,Cloud,Bengaluru,0,10,16
+MGR0506,211033,Support,Bengaluru,0,12,22
+MGR0507,220630,Sales,Bengaluru,0,15,15
+MGR0508,206757,Finance,Bengaluru,0,8,9
+MGR0509,219098,Support,Hyderabad,0,11,18
+MGR0510,228320,Cloud,Bengaluru,0,10,19
+MGR0511,225446,Marketing,Noida,0,8,12
+MGR0512,230175,Support,Noida,0,14,16
+MGR0513,222243,Cloud,Pune,0,11,9
+MGR0514,233574,Data Science,Pune,0,9,21
+MGR0515,210438,Marketing,Mumbai,0,9,15
+MGR0516,201992,Support,Bengaluru,0,10,18
+MGR0517,221661,Support,Bengaluru,0,12,15
+MGR0518,232500,Engineering,Pune,0,12,16
+MGR0519,207769,Finance,Hyderabad,0,15,14
+MGR0520,203189,HR,Pune,0,11,15
+MGR0521,234159,Support,Pune,0,10,15
+MGR0522,215161,Data Science,Chennai,0,11,14
+MGR0523,233819,HR,Pune,0,10,22
+MGR0524,214558,Engineering,Chennai,0,9,21
+MGR0525,233009,Finance,Noida,0,14,12
+MGR0526,217630,Cloud,Mumbai,0,12,13
+MGR0527,222067,Marketing,Chennai,0,8,21
+MGR0528,208733,Engineering,Bengaluru,0,12,12
+MGR0529,217187,Sales,Hyderabad,0,15,21
+MGR0530,215973,Marketing,Chennai,0,10,21
+MGR0531,212538,Cyber Security,Bengaluru,0,15,15
+MGR0532,213817,Engineering,Hyderabad,0,13,13
+MGR0533,223061,HR,Noida,0,14,16
+MGR0534,233386,Marketing,Pune,0,13,15
+MGR0535,211619,Engineering,Hyderabad,0,11,21
+MGR0536,209741,Sales,Pune,0,11,19
+MGR0537,204071,Marketing,Pune,0,14,17
+MGR0538,226627,Marketing,Bengaluru,0,14,11
+MGR0539,218409,Cloud,Mumbai,0,13,8
+MGR0540,211624,Sales,Chennai,0,15,19
+MGR0541,220649,Data Science,Bengaluru,0,14,19
+MGR0542,218318,Data Science,Noida,0,10,14
+MGR0543,231680,Engineering,Pune,0,8,15
+MGR0544,215934,Sales,Noida,0,13,10
+MGR0545,217884,Cyber Security,Pune,0,9,21
+MGR0546,212587,HR,Chennai,0,15,21
+MGR0547,229828,Sales,Mumbai,0,15,9
+MGR0548,211490,Data Science,Pune,0,10,8
+MGR0549,206386,Marketing,Hyderabad,0,10,14
+MGR0550,214215,HR,Bengaluru,0,15,9
+MGR0551,213688,Finance,Hyderabad,0,12,20
+MGR0552,213728,Data Science,Bengaluru,0,14,13
+MGR0553,216584,Engineering,Pune,0,9,18
+MGR0554,220381,Data Science,Bengaluru,0,13,21
+MGR0555,225184,Data Science,Mumbai,0,14,21
+MGR0556,229863,Finance,Mumbai,0,15,13
+MGR0557,225497,Cloud,Mumbai,0,8,21
+MGR0558,227100,Cyber Security,Hyderabad,0,9,17
+MGR0559,234364,HR,Mumbai,0,12,11
+MGR0560,231840,Sales,Chennai,0,9,11
+MGR0561,226689,Engineering,Pune,0,9,14
+MGR0562,229576,Cloud,Pune,0,9,20
+MGR0563,218801,Cyber Security,Mumbai,0,10,15
+MGR0564,228376,Finance,Pune,0,12,19
+MGR0565,208460,HR,Bengaluru,0,8,22
+MGR0566,207655,Cloud,Mumbai,0,13,8
+MGR0567,211873,Cloud,Mumbai,0,8,20
+MGR0568,202732,HR,Noida,0,13,12
+MGR0569,215315,Support,Bengaluru,0,14,13
+MGR0570,231091,HR,Hyderabad,0,11,10
+MGR0571,225172,Data Science,Bengaluru,0,14,16
+MGR0572,201976,HR,Hyderabad,0,10,17
+MGR0573,214526,Engineering,Mumbai,0,10,10
+MGR0574,209416,Cloud,Pune,0,14,9
+MGR0575,211967,Cyber Security,Pune,0,11,17
+MGR0576,224207,Sales,Pune,0,10,15
+MGR0577,210107,Finance,Pune,0,15,11
+MGR0578,210138,Finance,Mumbai,0,12,18
+MGR0579,219013,Sales,Noida,0,12,15
+MGR0580,208326,Finance,Pune,0,8,18
+MGR0581,204137,Finance,Mumbai,0,15,22
+MGR0582,207228,Support,Bengaluru,0,12,22
+MGR0583,200005,Cloud,Chennai,0,10,18
+MGR0584,221027,Support,Mumbai,0,15,9
+MGR0585,223128,Data Science,Noida,0,12,13
+MGR0586,227195,Cyber Security,Bengaluru,0,14,18
+MGR0587,234473,Marketing,Bengaluru,0,12,19
+MGR0588,202233,Cloud,Chennai,0,12,15
+MGR0589,223865,Engineering,Pune,0,14,11
+MGR0590,200595,Cloud,Noida,0,15,21
+MGR0591,223250,HR,Hyderabad,0,11,9
+MGR0592,215496,Cloud,Hyderabad,0,13,14
+MGR0593,208606,Sales,Chennai,0,12,17
+MGR0594,217124,Cloud,Pune,0,12,19
+MGR0595,205949,Data Science,Chennai,0,14,8
+MGR0596,207370,Engineering,Mumbai,0,8,12
+MGR0597,234404,Cloud,Chennai,0,8,17
+MGR0598,233883,Support,Pune,0,15,22
+MGR0599,225847,Engineering,Noida,0,12,21
+MGR0600,231571,Marketing,Pune,0,11,20
+MGR0601,208984,Cloud,Pune,0,13,17
+MGR0602,220679,Cloud,Pune,0,11,11
+MGR0603,200071,Engineering,Noida,0,12,17
+MGR0604,214104,Data Science,Noida,0,10,18
+MGR0605,217785,Cyber Security,Pune,0,9,18
+MGR0606,211758,Data Science,Mumbai,0,8,22
+MGR0607,207077,Finance,Noida,0,15,12
+MGR0608,225130,Data Science,Chennai,0,13,8
+MGR0609,203774,Finance,Hyderabad,0,10,19
+MGR0610,223121,Cloud,Pune,0,12,9
+MGR0611,218713,Data Science,Pune,0,14,13
+MGR0612,228489,Engineering,Hyderabad,0,11,10
+MGR0613,206187,Engineering,Noida,0,13,10
+MGR0614,203907,Cyber Security,Mumbai,0,12,16
+MGR0615,226833,Support,Pune,0,10,21
+MGR0616,211577,HR,Hyderabad,0,15,12
+MGR0617,228733,Cyber Security,Pune,0,12,20
+MGR0618,221045,Cloud,Bengaluru,0,13,19
+MGR0619,201744,Marketing,Hyderabad,0,9,20
+MGR0620,227400,HR,Chennai,0,9,15
+MGR0621,215730,Cloud,Bengaluru,0,11,10
+MGR0622,210500,Cloud,Noida,0,14,21
+MGR0623,202070,Cloud,Pune,0,13,21
+MGR0624,215625,Sales,Noida,0,14,9
+MGR0625,225422,Support,Pune,0,12,8
+MGR0626,234676,Data Science,Mumbai,0,9,16
+MGR0627,206631,Finance,Mumbai,0,13,15
+MGR0628,217660,Cloud,Chennai,0,12,18
+MGR0629,212875,HR,Hyderabad,0,14,17
+MGR0630,208815,Marketing,Bengaluru,0,13,21
+MGR0631,221206,Support,Hyderabad,0,11,9
+MGR0632,208725,Engineering,Noida,0,8,15
+MGR0633,217933,Cloud,Noida,0,13,17
+MGR0634,215059,Engineering,Bengaluru,0,11,22
+MGR0635,231879,Sales,Noida,0,9,18
+MGR0636,222244,Sales,Chennai,0,15,18
+MGR0637,214409,HR,Hyderabad,0,12,22
+MGR0638,210739,Finance,Pune,0,14,18
+MGR0639,203594,Cloud,Mumbai,0,10,9
+MGR0640,221565,Cyber Security,Hyderabad,0,8,8
+MGR0641,215981,Cloud,Pune,0,15,12
+MGR0642,216999,Engineering,Hyderabad,0,9,9
+MGR0643,228673,Engineering,Chennai,0,10,11
+MGR0644,212342,Finance,Hyderabad,0,15,14
+MGR0645,227151,Finance,Chennai,0,14,13
+MGR0646,208961,Cloud,Hyderabad,0,10,17
+MGR0647,220628,Cloud,Hyderabad,0,14,22
+MGR0648,200610,Sales,Hyderabad,0,9,18
+MGR0649,207975,Cyber Security,Noida,0,15,21
+MGR0650,212699,Engineering,Mumbai,0,14,17
+MGR0651,203203,Data Science,Hyderabad,0,8,12
+MGR0652,233910,HR,Mumbai,0,13,19
+MGR0653,233613,Sales,Noida,0,15,11
+MGR0654,234365,Cloud,Chennai,0,11,15
+MGR0655,225034,Cloud,Pune,0,13,21
+MGR0656,222630,Support,Pune,0,13,9
+MGR0657,218711,Marketing,Bengaluru,0,13,16
+MGR0658,221202,Cloud,Chennai,0,14,8
+MGR0659,203603,Finance,Hyderabad,0,11,12
+MGR0660,221914,Marketing,Bengaluru,0,15,9
+MGR0661,217586,Engineering,Noida,0,11,9
+MGR0662,221481,Support,Pune,0,8,18
+MGR0663,201322,HR,Bengaluru,0,13,8
+MGR0664,205667,Cloud,Noida,0,10,11
+MGR0665,217097,Support,Hyderabad,0,11,20
+MGR0666,232485,Marketing,Hyderabad,0,11,9
+MGR0667,233007,Data Science,Pune,0,11,17
+MGR0668,217231,Marketing,Mumbai,0,11,21
+MGR0669,229734,Support,Pune,0,10,13
+MGR0670,226855,Engineering,Bengaluru,0,8,20
+MGR0671,205290,Cloud,Hyderabad,0,10,12
+MGR0672,202568,Support,Pune,0,12,10
+MGR0673,221443,Sales,Mumbai,0,10,20
+MGR0674,215494,Engineering,Mumbai,0,8,9
+MGR0675,213514,Data Science,Hyderabad,0,8,10
+MGR0676,201944,Finance,Noida,0,11,13
+MGR0677,213443,Engineering,Noida,0,13,17
+MGR0678,218480,Finance,Mumbai,0,10,8
+MGR0679,215328,Support,Mumbai,0,8,12
+MGR0680,216442,HR,Bengaluru,0,14,10
+MGR0681,211303,Sales,Mumbai,0,9,16
+MGR0682,217611,Cloud,Mumbai,0,9,19
+MGR0683,203619,Finance,Mumbai,0,15,15
+MGR0684,215699,Data Science,Mumbai,0,13,20
+MGR0685,221935,Finance,Bengaluru,0,9,16
+MGR0686,207775,Marketing,Mumbai,0,11,15
+MGR0687,234709,Finance,Noida,0,8,17
+MGR0688,209423,HR,Mumbai,0,12,19
+MGR0689,222914,Data Science,Noida,0,8,15
+MGR0690,234502,Cloud,Mumbai,0,15,8
+MGR0691,226127,Engineering,Bengaluru,0,14,21
+MGR0692,225886,Support,Noida,0,9,14
+MGR0693,223397,Support,Mumbai,0,15,15
+MGR0694,208761,HR,Bengaluru,0,9,9
+MGR0695,224350,Cloud,Hyderabad,0,10,13
+MGR0696,224812,Cyber Security,Chennai,0,10,9
+MGR0697,223014,Engineering,Mumbai,0,13,12
+MGR0698,206381,Finance,Bengaluru,0,12,14
+MGR0699,213287,Support,Hyderabad,0,14,15
+MGR0700,202907,Engineering,Chennai,0,9,9
+MGR0701,207270,Cloud,Hyderabad,0,11,21
+MGR0702,230296,Marketing,Pune,0,15,14
+MGR0703,232050,Finance,Bengaluru,0,11,22
+MGR0704,227509,Cyber Security,Pune,0,13,14
+MGR0705,222613,Finance,Noida,0,15,21
+MGR0706,208325,Sales,Chennai,0,14,14
+MGR0707,230751,Data Science,Noida,0,9,19
+MGR0708,212523,Cyber Security,Pune,0,14,13
+MGR0709,219994,Engineering,Pune,0,12,13
+MGR0710,216618,Finance,Pune,0,10,13
+MGR0711,204803,Marketing,Bengaluru,0,15,18
+MGR0712,214939,Sales,Mumbai,0,9,9
+MGR0713,203781,Cloud,Noida,0,9,21
+MGR0714,220511,Sales,Mumbai,0,14,9
+MGR0715,216260,Data Science,Mumbai,0,13,9
+MGR0716,221808,Finance,Chennai,0,10,20
+MGR0717,203023,Sales,Hyderabad,0,8,16
+MGR0718,221099,Marketing,Noida,0,13,17
+MGR0719,227044,Sales,Chennai,0,9,18
+MGR0720,225589,Sales,Mumbai,0,13,14
+MGR0721,231055,Support,Hyderabad,0,14,21
+MGR0722,234136,Engineering,Pune,0,8,21
+MGR0723,203060,Cyber Security,Mumbai,0,12,12
+MGR0724,233603,HR,Pune,0,9,13
+MGR0725,218030,Finance,Bengaluru,0,11,17
+MGR0726,207890,Sales,Hyderabad,0,15,10
+MGR0727,203887,Sales,Mumbai,0,9,11
+MGR0728,202174,Support,Mumbai,0,13,13
+MGR0729,201722,Marketing,Noida,0,12,9
+MGR0730,217432,Engineering,Hyderabad,0,11,17
+MGR0731,211005,Cloud,Mumbai,0,14,20
+MGR0732,229689,Data Science,Noida,0,8,21
+MGR0733,205111,Support,Chennai,0,12,17
+MGR0734,223994,Data Science,Chennai,0,10,8
+MGR0735,229231,Cyber Security,Pune,0,12,12
+MGR0736,228692,HR,Hyderabad,0,13,22
+MGR0737,232458,HR,Hyderabad,0,8,13
+MGR0738,203572,Engineering,Pune,0,10,10
+MGR0739,216242,HR,Bengaluru,0,14,17
+MGR0740,215618,HR,Hyderabad,0,10,9
+MGR0741,208936,Sales,Hyderabad,0,8,19
+MGR0742,225218,Marketing,Hyderabad,0,11,9
+MGR0743,204489,Sales,Chennai,0,14,14
+MGR0744,232867,Support,Mumbai,0,13,15
+MGR0745,215926,Cloud,Hyderabad,0,13,10
+MGR0746,228517,Marketing,Chennai,0,13,12
+MGR0747,220225,HR,Chennai,0,9,20
+MGR0748,219699,Cyber Security,Pune,0,8,22
+MGR0749,224613,Sales,Pune,0,10,10
+MGR0750,229757,Cyber Security,Hyderabad,0,8,20
+MGR0751,222422,HR,Mumbai,0,9,18
+MGR0752,208967,Support,Mumbai,0,15,12
+MGR0753,205996,Cyber Security,Pune,0,14,18
+MGR0754,200434,Cyber Security,Mumbai,0,15,15
+MGR0755,217284,Cyber Security,Hyderabad,0,12,14
+MGR0756,226781,Cloud,Bengaluru,0,9,11
+MGR0757,218130,Cloud,Mumbai,0,14,13
+MGR0758,211124,Marketing,Mumbai,0,12,9
+MGR0759,207026,Engineering,Hyderabad,0,15,18
+MGR0760,225099,Marketing,Hyderabad,0,12,16
+MGR0761,214686,Engineering,Hyderabad,0,11,8
+MGR0762,204545,Marketing,Noida,0,8,14
+MGR0763,231502,Marketing,Mumbai,0,11,8
+MGR0764,213488,Marketing,Mumbai,0,11,12
+MGR0765,230093,Cyber Security,Pune,0,10,20
+MGR0766,225755,Marketing,Mumbai,0,12,20
+MGR0767,206887,HR,Noida,0,13,12
+MGR0768,204375,HR,Noida,0,8,9
+MGR0769,204378,Support,Hyderabad,0,14,15
+MGR0770,232343,Support,Pune,0,10,10
+MGR0771,228833,Data Science,Hyderabad,0,11,14
+MGR0772,219836,Finance,Bengaluru,0,13,16
+MGR0773,203974,HR,Mumbai,0,14,9
+MGR0774,234391,Cyber Security,Pune,0,8,21
+MGR0775,222896,Support,Chennai,0,8,14
+MGR0776,213223,Cyber Security,Bengaluru,0,9,15
+MGR0777,207953,Support,Bengaluru,0,13,21
+MGR0778,224272,Cloud,Bengaluru,0,14,17
+MGR0779,224752,Data Science,Hyderabad,0,14,17
+MGR0780,226530,Cyber Security,Hyderabad,0,14,19
+MGR0781,215037,Sales,Hyderabad,0,9,12
+MGR0782,204109,Engineering,Hyderabad,0,8,14
+MGR0783,206767,Sales,Hyderabad,0,10,13
+MGR0784,215834,Support,Pune,0,15,20
+MGR0785,228565,Finance,Mumbai,0,13,21
+MGR0786,211280,Cyber Security,Chennai,0,14,9
+MGR0787,233453,Engineering,Noida,0,9,21
+MGR0788,204854,HR,Mumbai,0,14,11
+MGR0789,229199,Cloud,Chennai,0,14,17
+MGR0790,220657,Engineering,Hyderabad,0,9,16
+MGR0791,231729,Support,Mumbai,0,12,14
+MGR0792,207409,Marketing,Chennai,0,13,19
+MGR0793,202587,Cyber Security,Chennai,0,13,11
+MGR0794,224679,Finance,Pune,0,10,20
+MGR0795,206242,Cloud,Mumbai,0,9,9
+MGR0796,213742,Engineering,Noida,0,11,16
+MGR0797,229091,Cyber Security,Noida,0,13,22
+MGR0798,214043,HR,Chennai,0,10,13
+MGR0799,207424,HR,Bengaluru,0,9,11
+MGR0800,233903,Engineering,Pune,0,12,10
+MGR0801,207485,Marketing,Mumbai,0,10,11
+MGR0802,202715,Marketing,Pune,0,10,17
+MGR0803,225343,Cyber Security,Noida,0,9,20
+MGR0804,222208,Finance,Mumbai,0,15,10
+MGR0805,204657,Finance,Pune,0,15,15
+MGR0806,220836,Marketing,Hyderabad,0,13,18
+MGR0807,200504,Support,Bengaluru,0,13,21
+MGR0808,234714,Sales,Bengaluru,0,15,10
+MGR0809,216163,Data Science,Bengaluru,0,15,9
+MGR0810,210971,HR,Bengaluru,0,12,15
+MGR0811,226527,Cyber Security,Mumbai,0,12,20
+MGR0812,210948,Finance,Bengaluru,0,8,17
+MGR0813,213221,Cloud,Noida,0,9,13
+MGR0814,208614,Sales,Hyderabad,0,15,12
+MGR0815,215006,Sales,Pune,0,8,15
+MGR0816,232471,Data Science,Bengaluru,0,13,8
+MGR0817,223381,Cyber Security,Pune,0,12,21
+MGR0818,234390,Support,Pune,0,9,9
+MGR0819,229960,Data Science,Chennai,0,14,17
+MGR0820,213807,Finance,Chennai,0,8,15
+MGR0821,224722,Cloud,Bengaluru,0,11,15
+MGR0822,216454,Marketing,Chennai,0,15,13
+MGR0823,215724,Finance,Mumbai,0,10,16
+MGR0824,213297,Engineering,Chennai,0,15,8
+MGR0825,208511,Engineering,Noida,0,13,9
+MGR0826,224461,Data Science,Chennai,0,9,19
+MGR0827,225718,Finance,Noida,0,10,16
+MGR0828,202518,Engineering,Bengaluru,0,11,8
+MGR0829,214519,Marketing,Chennai,0,15,19
+MGR0830,227756,Cloud,Hyderabad,0,10,15
+MGR0831,215367,HR,Bengaluru,0,13,13
+MGR0832,221769,HR,Pune,0,12,22
+MGR0833,212466,Cyber Security,Hyderabad,0,14,14
+MGR0834,203029,HR,Noida,0,13,20
+MGR0835,232013,Sales,Bengaluru,0,8,18
+MGR0836,213737,Engineering,Pune,0,13,20
+MGR0837,223642,Sales,Pune,0,13,9
+MGR0838,221506,Data Science,Bengaluru,0,14,9
+MGR0839,227383,Finance,Chennai,0,12,12
+MGR0840,217229,Marketing,Pune,0,10,19
+MGR0841,213353,Data Science,Pune,0,9,13
+MGR0842,222336,Support,Bengaluru,0,10,17
+MGR0843,234536,Sales,Mumbai,0,13,22
+MGR0844,207952,Marketing,Noida,0,14,12
+MGR0845,211409,Marketing,Pune,0,9,10
+MGR0846,227656,Engineering,Pune,0,14,12
+MGR0847,230545,Data Science,Pune,0,13,18
+MGR0848,209882,Data Science,Hyderabad,0,10,21
+MGR0849,214179,Engineering,Bengaluru,0,9,18
+MGR0850,204781,Cyber Security,Bengaluru,0,14,18
+MGR0851,204865,Support,Noida,0,13,16
+MGR0852,206282,Cloud,Chennai,0,13,8
+MGR0853,210126,Sales,Chennai,0,10,12
+MGR0854,208992,HR,Mumbai,0,13,11
+MGR0855,214935,Data Science,Chennai,0,15,20
+MGR0856,226131,Finance,Mumbai,0,11,11
+MGR0857,233843,Support,Chennai,0,10,10
+MGR0858,205527,HR,Hyderabad,0,12,9
+MGR0859,212031,Data Science,Pune,0,9,21
+MGR0860,229420,Support,Hyderabad,0,8,16
+MGR0861,213319,Marketing,Mumbai,0,13,18
+MGR0862,223127,Cloud,Pune,0,10,22
+MGR0863,205173,Marketing,Chennai,0,14,17
+MGR0864,227203,Engineering,Pune,0,10,10
+MGR0865,209150,Support,Hyderabad,0,10,10
+MGR0866,221466,Marketing,Mumbai,0,15,19
+MGR0867,204049,Marketing,Chennai,0,14,8
+MGR0868,233766,HR,Mumbai,0,11,13
+MGR0869,215621,Finance,Mumbai,0,12,15
+MGR0870,206385,Support,Bengaluru,0,15,20
+MGR0871,211542,Data Science,Chennai,0,11,11
+MGR0872,202396,Data Science,Hyderabad,0,15,12
+MGR0873,233835,HR,Noida,0,11,22
+MGR0874,227310,Finance,Mumbai,0,15,13
+MGR0875,213275,Cyber Security,Pune,0,12,15
+MGR0876,209482,Cloud,Chennai,0,14,20
+MGR0877,226879,Engineering,Chennai,0,14,16
+MGR0878,222550,Finance,Chennai,0,11,10
+MGR0879,220987,Sales,Hyderabad,0,10,20
+MGR0880,204913,HR,Noida,0,12,21
+MGR0881,212573,Support,Hyderabad,0,15,8
+MGR0882,220763,Marketing,Bengaluru,0,13,21
+MGR0883,234381,Data Science,Mumbai,0,9,16
+MGR0884,212338,Engineering,Hyderabad,0,9,19
+MGR0885,201531,Engineering,Mumbai,0,9,12
+MGR0886,200834,Sales,Noida,0,10,20
+MGR0887,210266,Finance,Noida,0,15,12
+MGR0888,233052,Support,Noida,0,10,22
+MGR0889,219531,Cloud,Mumbai,0,14,21
+MGR0890,222527,Sales,Pune,0,11,9
+MGR0891,219048,Cloud,Mumbai,0,15,21
+MGR0892,230987,Sales,Mumbai,0,13,22
+MGR0893,220576,Sales,Noida,0,8,22
+MGR0894,217528,Finance,Pune,0,8,14
+MGR0895,214923,Cyber Security,Hyderabad,0,13,14
+MGR0896,215696,Support,Mumbai,0,14,11
+MGR0897,223481,Support,Noida,0,13,9
+MGR0898,204564,Cyber Security,Chennai,0,8,11
+MGR0899,201319,Cloud,Hyderabad,0,9,13
+MGR0900,231722,Finance,Noida,0,13,21
+MGR0901,215355,Marketing,Chennai,0,10,20
+MGR0902,216867,Data Science,Hyderabad,0,8,10
+MGR0903,225439,Finance,Chennai,0,15,12
+MGR0904,222320,Marketing,Mumbai,0,10,19
+MGR0905,219258,Cyber Security,Bengaluru,0,15,20
+MGR0906,200800,Support,Noida,0,8,15
+MGR0907,226287,Finance,Chennai,0,9,22
+MGR0908,215400,Marketing,Hyderabad,0,12,8
+MGR0909,231003,Finance,Hyderabad,0,10,11
+MGR0910,220538,Finance,Pune,0,14,16
+MGR0911,229746,Engineering,Hyderabad,0,12,9
+MGR0912,228574,Cyber Security,Bengaluru,0,12,11
+MGR0913,231112,Engineering,Noida,0,8,9
+MGR0914,233652,Engineering,Bengaluru,0,14,11
+MGR0915,219147,Marketing,Chennai,0,15,18
+MGR0916,216663,Sales,Noida,0,9,9
+MGR0917,229654,Data Science,Mumbai,0,15,21
+MGR0918,226613,Support,Chennai,0,8,17
+MGR0919,230742,Marketing,Bengaluru,0,11,18
+MGR0920,210689,Cyber Security,Noida,0,10,19
+MGR0921,218906,Data Science,Noida,0,14,12
+MGR0922,202035,Data Science,Chennai,0,13,8
+MGR0923,232193,Finance,Bengaluru,0,14,11
+MGR0924,204315,Finance,Noida,0,9,10
+MGR0925,227818,Cloud,Pune,0,13,16
+MGR0926,225682,Finance,Chennai,0,8,9
+MGR0927,214877,Support,Chennai,0,15,14
+MGR0928,226042,Engineering,Noida,0,14,8
+MGR0929,204267,HR,Chennai,0,12,13
+MGR0930,212953,Support,Noida,0,8,19
+MGR0931,215456,Data Science,Mumbai,0,9,13
+MGR0932,234859,Data Science,Pune,0,11,13
+MGR0933,208193,Cloud,Pune,0,9,19
+MGR0934,213789,Sales,Bengaluru,0,13,20
+MGR0935,213261,Engineering,Pune,0,8,10
+MGR0936,226414,Marketing,Mumbai,0,13,13
+MGR0937,233983,HR,Mumbai,0,10,21
+MGR0938,228714,Cloud,Mumbai,0,15,21
+MGR0939,224365,Finance,Chennai,0,15,19
+MGR0940,229246,Sales,Noida,0,10,18
+MGR0941,217655,Engineering,Noida,0,10,20
+MGR0942,231283,Marketing,Chennai,0,15,9
+MGR0943,227110,Cyber Security,Chennai,0,12,8
+MGR0944,217077,HR,Bengaluru,0,8,11
+MGR0945,200659,Cloud,Chennai,0,11,20
+MGR0946,225832,Cloud,Chennai,0,8,22
+MGR0947,219993,Sales,Bengaluru,0,12,13
+MGR0948,202299,Finance,Pune,0,14,16
+MGR0949,208777,Cloud,Chennai,0,15,21
+MGR0950,205970,Marketing,Bengaluru,0,8,12
+MGR0951,220705,Support,Hyderabad,0,11,20
+MGR0952,219204,Marketing,Noida,0,13,12
+MGR0953,219376,Marketing,Noida,0,8,21
+MGR0954,224206,HR,Noida,0,13,21
+MGR0955,212001,Cyber Security,Chennai,0,9,12
+MGR0956,220199,HR,Mumbai,0,13,20
+MGR0957,221445,Finance,Noida,0,14,14
+MGR0958,208808,Marketing,Chennai,0,15,19
+MGR0959,227962,Support,Noida,0,14,22
+MGR0960,223670,Data Science,Chennai,0,10,13
+MGR0961,214783,Data Science,Chennai,0,15,15
+MGR0962,205878,Cyber Security,Chennai,0,12,13
+MGR0963,229640,Data Science,Chennai,0,9,20
+MGR0964,220180,Data Science,Hyderabad,0,14,19
+MGR0965,226887,Cloud,Pune,0,14,9
+MGR0966,228506,HR,Hyderabad,0,10,17
+MGR0967,232264,Engineering,Hyderabad,0,12,16
+MGR0968,208878,Data Science,Hyderabad,0,9,13
+MGR0969,207636,Support,Chennai,0,13,9
+MGR0970,210053,Cloud,Mumbai,0,12,18
+MGR0971,212755,Data Science,Chennai,0,15,12
+MGR0972,206395,Sales,Mumbai,0,14,17
+MGR0973,224062,Support,Noida,0,15,10
+MGR0974,218473,Engineering,Noida,0,15,13
+MGR0975,234649,Sales,Mumbai,0,13,8
+MGR0976,218302,Engineering,Noida,0,14,17
+MGR0977,209220,Data Science,Bengaluru,0,8,12
+MGR0978,215364,Data Science,Mumbai,0,14,9
+MGR0979,200060,HR,Bengaluru,0,10,13
+MGR0980,227661,Finance,Chennai,0,10,8
+MGR0981,219602,Finance,Chennai,0,15,21
+MGR0982,203389,Data Science,Mumbai,0,10,8
+MGR0983,231882,Sales,Noida,0,11,9
+MGR0984,200095,Engineering,Mumbai,0,13,20
+MGR0985,207301,Engineering,Bengaluru,0,14,13
+MGR0986,229624,Engineering,Pune,0,8,17
+MGR0987,210084,Data Science,Pune,0,10,17
+MGR0988,223726,Sales,Hyderabad,0,15,18
+MGR0989,220998,Support,Noida,0,13,13
+MGR0990,205022,Cyber Security,Hyderabad,0,9,15
+MGR0991,223290,Cloud,Noida,0,10,17
+MGR0992,214906,Marketing,Mumbai,0,13,16
+MGR0993,200561,Marketing,Bengaluru,0,13,14
+MGR0994,209232,HR,Mumbai,0,12,18
+MGR0995,203022,Support,Noida,0,9,11
+MGR0996,219434,Finance,Bengaluru,0,10,8
+MGR0997,217161,Marketing,Hyderabad,0,14,15
+MGR0998,225106,Data Science,Bengaluru,0,9,22
+MGR0999,208443,Engineering,Mumbai,0,12,12
+MGR1000,202826,Data Science,Noida,0,15,19
+MGR1001,208105,Sales,Chennai,0,12,11
+MGR1002,217353,Support,Noida,0,15,19
+MGR1003,223775,Marketing,Chennai,0,9,11
+MGR1004,211638,Sales,Chennai,0,9,10
+MGR1005,204468,Engineering,Pune,0,10,15
+MGR1006,203797,Sales,Chennai,0,15,22
+MGR1007,216031,Sales,Hyderabad,0,13,9
+MGR1008,220018,Cyber Security,Pune,0,13,18
+MGR1009,215931,Cyber Security,Mumbai,0,9,19
+MGR1010,228345,HR,Hyderabad,0,12,16
+MGR1011,216471,Engineering,Hyderabad,0,12,22
+MGR1012,231595,Cyber Security,Pune,0,10,21
+MGR1013,219663,HR,Hyderabad,0,10,19
+MGR1014,204294,Cyber Security,Bengaluru,0,13,20
+MGR1015,230805,HR,Pune,0,11,16
+MGR1016,213513,Data Science,Hyderabad,0,11,9
+MGR1017,232334,Cyber Security,Mumbai,0,10,20
+MGR1018,205972,Cyber Security,Bengaluru,0,15,11
+MGR1019,203959,Support,Chennai,0,13,8
+MGR1020,214221,Finance,Noida,0,13,16
+MGR1021,217032,Data Science,Chennai,0,10,15
+MGR1022,206760,Finance,Chennai,0,9,17
+MGR1023,233144,Data Science,Bengaluru,0,12,9
+MGR1024,206367,Engineering,Pune,0,15,14
+MGR1025,222881,Engineering,Noida,0,14,16
+MGR1026,225263,Engineering,Pune,0,14,20
+MGR1027,225741,Marketing,Chennai,0,9,21
+MGR1028,210402,HR,Noida,0,13,10
+MGR1029,219968,Support,Noida,0,9,18
+MGR1030,220444,Data Science,Mumbai,0,15,15
+MGR1031,226637,HR,Chennai,0,13,18
+MGR1032,219559,Marketing,Chennai,0,10,10
+MGR1033,208866,Data Science,Noida,0,10,20
+MGR1034,218289,Cloud,Mumbai,0,8,14
+MGR1035,233662,Engineering,Hyderabad,0,9,21
+MGR1036,226681,Sales,Mumbai,0,10,16
+MGR1037,203371,Finance,Mumbai,0,10,12
+MGR1038,207708,Engineering,Pune,0,13,10
+MGR1039,218169,Data Science,Noida,0,11,22
+MGR1040,228364,Cyber Security,Hyderabad,0,12,13
+MGR1041,231930,HR,Pune,0,9,21
+MGR1042,209291,Support,Bengaluru,0,11,12
+MGR1043,213299,Data Science,Chennai,0,12,18
+MGR1044,205214,Support,Pune,0,12,10
+MGR1045,222117,Engineering,Mumbai,0,9,17
+MGR1046,214590,Engineering,Pune,0,10,16
+MGR1047,227390,Cyber Security,Noida,0,10,17
+MGR1048,204935,Support,Pune,0,13,10
+MGR1049,200751,Marketing,Pune,0,8,21
+MGR1050,211672,Engineering,Hyderabad,0,8,21
+MGR1051,216836,Cloud,Pune,0,8,9
+MGR1052,220973,HR,Noida,0,12,18
+MGR1053,227354,Sales,Chennai,0,11,18
+MGR1054,233289,HR,Mumbai,0,14,20
+MGR1055,229643,Cloud,Pune,0,8,17
+MGR1056,228210,Finance,Noida,0,12,15
+MGR1057,234692,Finance,Noida,0,12,18
+MGR1058,219302,Finance,Chennai,0,11,15
+MGR1059,234511,Support,Pune,0,14,20
+MGR1060,209698,Finance,Mumbai,0,15,12
+MGR1061,220962,Support,Chennai,0,8,9
+MGR1062,231439,Engineering,Hyderabad,0,15,10
+MGR1063,202389,Data Science,Pune,0,15,14
+MGR1064,213072,Cloud,Pune,0,11,15
+MGR1065,213445,Finance,Mumbai,0,10,13
+MGR1066,220075,Marketing,Noida,0,13,13
+MGR1067,217792,HR,Hyderabad,0,13,19
+MGR1068,234749,Finance,Hyderabad,0,10,14
+MGR1069,230870,Finance,Mumbai,0,13,20
+MGR1070,221714,Marketing,Mumbai,0,9,16
+MGR1071,204367,HR,Noida,0,11,13
+MGR1072,226463,Support,Noida,0,9,15
+MGR1073,214000,Data Science,Bengaluru,0,15,12
+MGR1074,205071,Sales,Mumbai,0,10,11
+MGR1075,230414,Cloud,Noida,0,8,9
+MGR1076,217512,Support,Pune,0,14,12
+MGR1077,222750,Data Science,Bengaluru,0,14,21
+MGR1078,200384,Sales,Chennai,0,10,11
+MGR1079,205732,Finance,Noida,0,13,21
+MGR1080,219394,Data Science,Pune,0,13,22
+MGR1081,200458,Cloud,Chennai,0,10,11
+MGR1082,222886,Support,Chennai,0,15,15
+MGR1083,228127,Support,Hyderabad,0,12,15
+MGR1084,207736,Marketing,Hyderabad,0,8,15
+MGR1085,204260,Engineering,Chennai,0,14,9
+MGR1086,226012,Sales,Mumbai,0,15,16
+MGR1087,207080,Cloud,Mumbai,0,11,11
+MGR1088,212329,HR,Noida,0,13,17
+MGR1089,207867,Marketing,Chennai,0,8,8
+MGR1090,225927,Sales,Chennai,0,15,12
+MGR1091,207052,Data Science,Mumbai,0,15,17
+MGR1092,229613,Data Science,Mumbai,0,8,12
+MGR1093,230964,Engineering,Mumbai,0,9,21
+MGR1094,219581,HR,Mumbai,0,10,14
+MGR1095,217091,Data Science,Mumbai,0,12,22
+MGR1096,216492,Sales,Pune,0,13,19
+MGR1097,226227,Finance,Pune,0,14,20
+MGR1098,217872,Cyber Security,Mumbai,0,8,13
+MGR1099,234995,Data Science,Hyderabad,0,8,14
+MGR1100,219653,Cloud,Chennai,0,11,17
+MGR1101,213841,Support,Mumbai,0,12,13
+MGR1102,205067,Sales,Bengaluru,0,14,9
+MGR1103,223365,Marketing,Noida,0,15,16
+MGR1104,215766,HR,Mumbai,0,12,20
+MGR1105,229208,Cyber Security,Bengaluru,0,9,21
+MGR1106,200673,Data Science,Noida,0,9,10
+MGR1107,228339,Cyber Security,Pune,0,13,14
+MGR1108,226315,Cloud,Hyderabad,0,13,20
+MGR1109,227544,Data Science,Hyderabad,0,13,16
+MGR1110,201854,Cyber Security,Hyderabad,0,10,20
+MGR1111,205652,Support,Mumbai,0,14,11
+MGR1112,205707,Marketing,Chennai,0,8,16
+MGR1113,203820,HR,Hyderabad,0,8,8
+MGR1114,213547,Support,Bengaluru,0,13,10
+MGR1115,224939,Marketing,Chennai,0,15,20
+MGR1116,206275,Sales,Bengaluru,0,15,16
+MGR1117,205610,Data Science,Bengaluru,0,10,10
+MGR1118,230251,Sales,Noida,0,13,13
+MGR1119,231325,Finance,Pune,0,14,10
+MGR1120,221154,Cloud,Pune,0,12,17
+MGR1121,232785,Support,Pune,0,13,17
+MGR1122,220993,Sales,Chennai,0,15,16
+MGR1123,206676,Data Science,Chennai,0,12,19
+MGR1124,209534,Engineering,Bengaluru,0,8,15
+MGR1125,225770,Sales,Chennai,0,13,13
+MGR1126,218085,Sales,Mumbai,0,9,18
+MGR1127,202286,HR,Bengaluru,0,12,14
+MGR1128,206579,Sales,Mumbai,0,8,20
+MGR1129,211023,Engineering,Pune,0,15,17
+MGR1130,234698,Sales,Bengaluru,0,11,12
+MGR1131,200034,Cyber Security,Pune,0,8,19
+MGR1132,217065,Support,Noida,0,15,17
+MGR1133,208899,Finance,Mumbai,0,14,10
+MGR1134,201262,Marketing,Noida,0,11,10
+MGR1135,200481,Sales,Mumbai,0,9,8
+MGR1136,231745,HR,Chennai,0,8,11
+MGR1137,207020,Support,Hyderabad,0,13,15
+MGR1138,234961,HR,Pune,0,10,14
+MGR1139,200471,Finance,Mumbai,0,11,14
+MGR1140,213311,Engineering,Chennai,0,15,14
+MGR1141,229270,Sales,Mumbai,0,8,21
+MGR1142,224406,Support,Chennai,0,10,19
+MGR1143,225910,Data Science,Noida,0,11,16
+MGR1144,218426,Engineering,Hyderabad,0,13,16
+MGR1145,225477,Support,Mumbai,0,15,18
+MGR1146,233306,Sales,Noida,0,14,16
+MGR1147,204964,Cloud,Mumbai,0,10,13
+MGR1148,228969,Marketing,Pune,0,13,15
+MGR1149,217780,Cyber Security,Hyderabad,0,13,16
+MGR1150,223220,HR,Bengaluru,0,12,18
+MGR1151,227537,Data Science,Noida,0,15,17
+MGR1152,209187,Finance,Bengaluru,0,11,11
+MGR1153,213553,Marketing,Noida,0,12,12
+MGR1154,231493,Engineering,Pune,0,12,11
+MGR1155,229227,HR,Hyderabad,0,12,20
+MGR1156,229992,Finance,Hyderabad,0,11,19
+MGR1157,215196,Marketing,Bengaluru,0,15,19
+MGR1158,219317,Cloud,Hyderabad,0,15,13
+MGR1159,230998,Marketing,Hyderabad,0,12,13
+MGR1160,233477,Cyber Security,Noida,0,9,12
+MGR1161,216856,Data Science,Pune,0,14,17
+MGR1162,219612,Data Science,Pune,0,14,22
+MGR1163,211128,Finance,Bengaluru,0,13,21
+MGR1164,213206,Support,Mumbai,0,10,20
+MGR1165,220231,Sales,Mumbai,0,8,12
+MGR1166,224871,Sales,Mumbai,0,9,12
+MGR1167,227633,Marketing,Bengaluru,0,15,13
+MGR1168,215541,Cyber Security,Mumbai,0,12,18
+MGR1169,225275,Engineering,Bengaluru,0,15,19
+MGR1170,229370,Data Science,Bengaluru,0,11,11
+MGR1171,207843,HR,Pune,0,12,21
+MGR1172,214936,Data Science,Hyderabad,0,12,22
+MGR1173,205327,Marketing,Bengaluru,0,9,10
+MGR1174,220046,Support,Mumbai,0,11,17
+MGR1175,228677,Cyber Security,Bengaluru,0,8,11
+MGR1176,226764,Finance,Noida,0,11,18
+MGR1177,234999,Cyber Security,Bengaluru,0,11,18
+MGR1178,216955,Sales,Bengaluru,0,9,8
+MGR1179,222297,HR,Noida,0,13,14
+MGR1180,211186,Support,Pune,0,15,19
+MGR1181,212359,Marketing,Mumbai,0,10,9
+MGR1182,233754,Finance,Mumbai,0,10,8
+MGR1183,202487,Finance,Noida,0,15,14
+MGR1184,233928,Sales,Pune,0,11,15
+MGR1185,222811,Cyber Security,Mumbai,0,12,20
+MGR1186,210247,Cyber Security,Pune,0,12,13
+MGR1187,226455,Marketing,Chennai,0,8,18
+MGR1188,233270,Data Science,Bengaluru,0,9,22
+MGR1189,213953,Cyber Security,Chennai,0,11,18
+MGR1190,227911,Cloud,Chennai,0,8,16
+MGR1191,210871,Engineering,Pune,0,10,22
+MGR1192,227089,Data Science,Pune,0,10,14
+MGR1193,216141,Finance,Chennai,0,8,22
+MGR1194,201743,HR,Chennai,0,14,21
+MGR1195,216210,Data Science,Chennai,0,15,20
+MGR1196,226195,HR,Chennai,0,12,10
+MGR1197,223578,Support,Pune,0,8,22
+MGR1198,209413,Finance,Hyderabad,0,12,8
+MGR1199,215092,Support,Chennai,0,9,17
+MGR1200,225671,Engineering,Chennai,0,13,22
+MGR1201,233384,Sales,Noida,0,15,12
+MGR1202,220487,Marketing,Chennai,0,15,18
+MGR1203,226784,Support,Hyderabad,0,10,22
+MGR1204,233972,Cyber Security,Noida,0,15,21
+MGR1205,208006,Marketing,Noida,0,11,12
+MGR1206,224789,Data Science,Noida,0,9,20
+MGR1207,231565,Cloud,Hyderabad,0,10,13
+MGR1208,219937,Cloud,Mumbai,0,15,19
+MGR1209,224504,Cloud,Pune,0,12,18
+MGR1210,219430,Marketing,Mumbai,0,10,19
+MGR1211,215712,Engineering,Hyderabad,0,13,8
+MGR1212,224117,Sales,Hyderabad,0,12,20
+MGR1213,204054,HR,Bengaluru,0,11,17
+MGR1214,201314,Engineering,Mumbai,0,14,10
+MGR1215,228466,Support,Bengaluru,0,14,21
+MGR1216,210828,Engineering,Mumbai,0,13,16
+MGR1217,208875,HR,Bengaluru,0,14,9
+MGR1218,223041,Data Science,Pune,0,9,18
+MGR1219,214688,Data Science,Chennai,0,10,10
+MGR1220,218051,Support,Chennai,0,13,15
+MGR1221,225745,Marketing,Pune,0,11,22
+MGR1222,211263,Sales,Mumbai,0,12,8
+MGR1223,226041,HR,Bengaluru,0,11,14
+MGR1224,217547,Engineering,Hyderabad,0,12,15
+MGR1225,224106,Cloud,Hyderabad,0,12,13
+MGR1226,221877,Marketing,Pune,0,8,17
+MGR1227,231941,Finance,Bengaluru,0,13,12
+MGR1228,219860,Engineering,Pune,0,11,19
+MGR1229,229165,Cloud,Chennai,0,9,8
+MGR1230,227829,Cyber Security,Bengaluru,0,12,15
+MGR1231,232289,Marketing,Pune,0,14,10
+MGR1232,211195,Marketing,Mumbai,0,12,18
+MGR1233,219962,Sales,Bengaluru,0,9,19
+MGR1234,223717,Data Science,Bengaluru,0,12,18
+MGR1235,202535,HR,Bengaluru,0,11,13
+MGR1236,221135,Cloud,Noida,0,10,11
+MGR1237,225476,HR,Bengaluru,0,10,15
+MGR1238,234861,Finance,Hyderabad,0,13,15
+MGR1239,226514,Cloud,Mumbai,0,15,14
+MGR1240,221971,Support,Hyderabad,0,11,20
+MGR1241,231731,Cloud,Chennai,0,11,20
+MGR1242,233973,HR,Pune,0,9,18
+MGR1243,210117,Engineering,Hyderabad,0,15,16
+MGR1244,214164,Cyber Security,Mumbai,0,13,16
+MGR1245,227626,Finance,Chennai,0,9,9
+MGR1246,209373,Marketing,Pune,0,11,8
+MGR1247,205222,Support,Chennai,0,10,17
+MGR1248,215816,Finance,Mumbai,0,13,10
+MGR1249,212393,Cloud,Noida,0,15,21
+MGR1250,203637,Data Science,Bengaluru,0,11,9
+MGR1251,218462,Finance,Bengaluru,0,15,19
+MGR1252,213909,Finance,Noida,0,15,9
+MGR1253,202895,Cloud,Chennai,0,8,20
+MGR1254,221519,Marketing,Chennai,0,10,15
+MGR1255,201755,HR,Noida,0,14,16
+MGR1256,210786,Cyber Security,Chennai,0,8,15
+MGR1257,233752,Sales,Chennai,0,15,16
+MGR1258,201168,Engineering,Pune,0,12,18
+MGR1259,220495,HR,Mumbai,0,8,19
+MGR1260,211037,Cyber Security,Bengaluru,0,12,14
+MGR1261,216715,Engineering,Chennai,0,8,21
+MGR1262,216907,Cyber Security,Noida,0,11,19
+MGR1263,205362,Cloud,Chennai,0,9,17
+MGR1264,207182,HR,Hyderabad,0,14,8
+MGR1265,226760,Cyber Security,Hyderabad,0,9,13
+MGR1266,208321,Engineering,Mumbai,0,8,16
+MGR1267,212943,Cloud,Hyderabad,0,9,22
+MGR1268,207818,Support,Bengaluru,0,15,22
+MGR1269,231343,Finance,Noida,0,12,8
+MGR1270,217617,Cyber Security,Pune,0,10,14
+MGR1271,220672,Sales,Bengaluru,0,10,20
+MGR1272,226936,Data Science,Chennai,0,14,20
+MGR1273,217688,Cloud,Noida,0,14,13
+MGR1274,229607,Data Science,Chennai,0,14,15
+MGR1275,204600,Support,Noida,0,9,14
+MGR1276,220024,Support,Hyderabad,0,10,18
+MGR1277,217208,Support,Hyderabad,0,13,18
+MGR1278,232331,Support,Hyderabad,0,10,9
+MGR1279,200568,Support,Mumbai,0,14,16
+MGR1280,206422,Cloud,Chennai,0,10,16
+MGR1281,232925,Finance,Hyderabad,0,11,19
+MGR1282,233079,Cyber Security,Bengaluru,0,8,21
+MGR1283,231709,Engineering,Bengaluru,0,8,20
+MGR1284,210461,Data Science,Chennai,0,15,12
+MGR1285,225107,Cloud,Bengaluru,0,14,18
+MGR1286,217029,Sales,Hyderabad,0,14,16
+MGR1287,210069,Marketing,Chennai,0,11,21
+MGR1288,213060,Marketing,Noida,0,15,11
+MGR1289,204557,HR,Chennai,0,10,13
+MGR1290,207249,Finance,Pune,0,11,12
+MGR1291,211249,Finance,Bengaluru,0,9,22
+MGR1292,210745,Engineering,Chennai,0,14,8
+MGR1293,202350,Cyber Security,Chennai,0,8,17
+MGR1294,203542,Engineering,Mumbai,0,11,11
+MGR1295,231456,Cloud,Hyderabad,0,9,9
+MGR1296,229144,Engineering,Chennai,0,8,17
+MGR1297,226084,Data Science,Mumbai,0,8,15
+MGR1298,206335,HR,Mumbai,0,8,11
+MGR1299,222500,Finance,Noida,0,15,14
+MGR1300,206104,Finance,Mumbai,0,11,11
+MGR1301,227063,Finance,Bengaluru,0,8,20
+MGR1302,200291,Finance,Chennai,0,12,10
+MGR1303,218726,Cloud,Chennai,0,13,11
+MGR1304,219845,Cyber Security,Pune,0,13,17
+MGR1305,216806,Cloud,Bengaluru,0,12,11
+MGR1306,228519,Cloud,Mumbai,0,10,22
+MGR1307,219096,HR,Mumbai,0,11,18
+MGR1308,211658,Marketing,Chennai,0,12,14
+MGR1309,209586,Cloud,Bengaluru,0,8,12
+MGR1310,204434,HR,Bengaluru,0,10,16
+MGR1311,204926,Cloud,Hyderabad,0,14,18
+MGR1312,221005,Engineering,Chennai,0,15,16
+MGR1313,202567,Finance,Noida,0,13,8
+MGR1314,227438,Data Science,Chennai,0,14,18
+MGR1315,218795,Cloud,Pune,0,13,20
+MGR1316,223923,Data Science,Noida,0,14,19
+MGR1317,208570,Finance,Hyderabad,0,10,14
+MGR1318,203288,Engineering,Pune,0,14,12
+MGR1319,207821,Cyber Security,Chennai,0,15,10
+MGR1320,212883,Support,Mumbai,0,11,11
+MGR1321,209713,Data Science,Bengaluru,0,10,12
+MGR1322,214299,Sales,Hyderabad,0,15,20
+MGR1323,220735,Finance,Hyderabad,0,8,22
+MGR1324,230226,Engineering,Pune,0,14,16
+MGR1325,227861,Sales,Noida,0,10,14
+MGR1326,222471,Cloud,Noida,0,11,14
+MGR1327,221364,Engineering,Mumbai,0,11,12
+MGR1328,206096,Cyber Security,Chennai,0,9,13
+MGR1329,213075,Cloud,Noida,0,15,22
+MGR1330,220551,Cyber Security,Mumbai,0,13,21
+MGR1331,225489,Data Science,Hyderabad,0,11,9
+MGR1332,215200,Sales,Noida,0,12,8
+MGR1333,216861,Cyber Security,Bengaluru,0,8,14
+MGR1334,214598,HR,Noida,0,9,21
+MGR1335,209551,Data Science,Noida,0,11,11
+MGR1336,213873,HR,Pune,0,11,15
+MGR1337,214488,Support,Pune,0,13,21
+MGR1338,230384,Finance,Chennai,0,8,12
+MGR1339,204633,HR,Hyderabad,0,11,11
+MGR1340,234204,Support,Mumbai,0,9,19
+MGR1341,212736,Marketing,Pune,0,15,19
+MGR1342,233704,Sales,Noida,0,11,22
+MGR1343,224791,Support,Mumbai,0,11,19
+MGR1344,202872,Finance,Hyderabad,0,11,14
+MGR1345,211079,Engineering,Mumbai,0,13,16
+MGR1346,208295,Cloud,Bengaluru,0,12,20
+MGR1347,225246,HR,Bengaluru,0,15,14
+MGR1348,201800,Marketing,Mumbai,0,13,16
+MGR1349,234302,Cyber Security,Mumbai,0,12,12
+MGR1350,208089,Cyber Security,Pune,0,15,13
+MGR1351,232534,Finance,Mumbai,0,9,15
+MGR1352,234040,Engineering,Noida,0,15,20
+MGR1353,224816,HR,Noida,0,13,20
+MGR1354,224348,Engineering,Noida,0,11,22
+MGR1355,210600,Cyber Security,Chennai,0,13,13
+MGR1356,227670,Marketing,Bengaluru,0,8,14
+MGR1357,233504,HR,Pune,0,11,17
+MGR1358,222487,Cyber Security,Mumbai,0,10,19
+MGR1359,206264,Cyber Security,Hyderabad,0,12,8
+MGR1360,209433,Sales,Pune,0,14,16
+MGR1361,216541,Cloud,Chennai,0,10,12
+MGR1362,221675,Cyber Security,Noida,0,13,11
+MGR1363,216532,HR,Pune,0,14,11
+MGR1364,207142,Sales,Bengaluru,0,11,17
+MGR1365,214008,Cloud,Noida,0,13,15
+MGR1366,225475,Finance,Hyderabad,0,15,12
+MGR1367,213000,Finance,Noida,0,15,19
+MGR1368,204430,Data Science,Chennai,0,10,15
+MGR1369,213416,Data Science,Chennai,0,13,19
+MGR1370,226390,Support,Pune,0,10,10
+MGR1371,228419,Finance,Noida,0,15,19
+MGR1372,210925,Data Science,Pune,0,8,10
+MGR1373,210019,HR,Mumbai,0,8,16
+MGR1374,222073,Engineering,Hyderabad,0,9,21
+MGR1375,227425,Sales,Bengaluru,0,8,21
+MGR1376,211380,Finance,Chennai,0,8,20
+MGR1377,207000,Support,Chennai,0,10,14
+MGR1378,206040,Cyber Security,Mumbai,0,11,21
+MGR1379,231230,Finance,Pune,0,10,9
+MGR1380,230542,Sales,Noida,0,11,8
+MGR1381,205113,Engineering,Mumbai,0,15,16
+MGR1382,221369,Marketing,Mumbai,0,8,13
+MGR1383,224152,Sales,Mumbai,0,15,17
+MGR1384,225877,Finance,Mumbai,0,15,18
+MGR1385,226350,Engineering,Hyderabad,0,8,8
+MGR1386,221820,HR,Bengaluru,0,14,16
+MGR1387,227751,Cyber Security,Noida,0,8,8
+MGR1388,227394,Data Science,Chennai,0,12,16
+MGR1389,223549,Engineering,Pune,0,12,16
+MGR1390,202595,Marketing,Noida,0,14,8
+MGR1391,228856,Support,Pune,0,10,20
+MGR1392,212800,Engineering,Mumbai,0,9,9
+MGR1393,213543,Marketing,Bengaluru,0,10,16
+MGR1394,223796,Engineering,Hyderabad,0,11,11
+MGR1395,206184,HR,Bengaluru,0,12,17
+MGR1396,204959,Finance,Pune,0,13,21
+MGR1397,214667,Data Science,Bengaluru,0,14,12
+MGR1398,207457,Cloud,Noida,0,13,9
+MGR1399,221888,HR,Noida,0,15,14
+MGR1400,211869,Cyber Security,Chennai,0,11,17
+MGR1401,224085,Engineering,Pune,0,11,19
+MGR1402,213511,Cyber Security,Noida,0,9,12
+MGR1403,221368,Data Science,Chennai,0,8,18
+MGR1404,200016,Data Science,Bengaluru,0,14,9
+MGR1405,228860,HR,Pune,0,14,14
+MGR1406,207011,HR,Bengaluru,0,15,16
+MGR1407,230197,Support,Pune,0,8,8
+MGR1408,202390,Data Science,Noida,0,10,19
+MGR1409,223283,HR,Chennai,0,15,9
+MGR1410,219821,Cloud,Mumbai,0,14,21
+MGR1411,200428,Finance,Chennai,0,13,18
+MGR1412,225280,HR,Noida,0,9,17
+MGR1413,231479,Support,Mumbai,0,8,22
+MGR1414,207973,Cyber Security,Chennai,0,11,11
+MGR1415,226577,HR,Bengaluru,0,15,22
+MGR1416,208629,Sales,Mumbai,0,8,12
+MGR1417,221414,Sales,Noida,0,9,22
+MGR1418,209059,Data Science,Noida,0,12,18
+MGR1419,222024,Finance,Noida,0,8,22
+MGR1420,229790,Cyber Security,Noida,0,13,10
+MGR1421,222092,Finance,Chennai,0,11,8
+MGR1422,224964,Cloud,Chennai,0,10,17
+MGR1423,215613,Sales,Mumbai,0,14,20
+MGR1424,206498,Data Science,Noida,0,9,22
+MGR1425,201832,Data Science,Mumbai,0,10,12
+MGR1426,207955,Marketing,Mumbai,0,11,17
+MGR1427,234811,Cloud,Mumbai,0,14,17
+MGR1428,223750,Support,Mumbai,0,13,18
+MGR1429,229442,Engineering,Noida,0,10,14
+MGR1430,204008,Marketing,Pune,0,9,20
+MGR1431,224640,Sales,Noida,0,13,16
+MGR1432,209156,Engineering,Chennai,0,9,8
+MGR1433,209794,Sales,Hyderabad,0,11,14
+MGR1434,230636,HR,Mumbai,0,9,21
+MGR1435,203247,Cyber Security,Chennai,0,14,13
+MGR1436,212914,Sales,Chennai,0,13,20
+MGR1437,217483,Finance,Bengaluru,0,12,8
+MGR1438,216154,Data Science,Noida,0,15,20
+MGR1439,231467,Data Science,Mumbai,0,11,15
+MGR1440,214912,Engineering,Hyderabad,0,14,13
+MGR1441,221897,Cloud,Mumbai,0,10,14
+MGR1442,220126,Data Science,Hyderabad,0,14,18
+MGR1443,214536,Finance,Chennai,0,12,9
+MGR1444,218223,Cyber Security,Pune,0,11,20
+MGR1445,219396,Finance,Bengaluru,0,9,19
+MGR1446,217228,HR,Chennai,0,12,9
+MGR1447,223631,Marketing,Noida,0,14,10
+MGR1448,206147,Sales,Bengaluru,0,10,19
+MGR1449,220612,Marketing,Hyderabad,0,14,19
+MGR1450,230273,Cloud,Hyderabad,0,13,13
+MGR1451,230269,Cyber Security,Mumbai,0,9,9
+MGR1452,228905,Support,Noida,0,12,8
+MGR1453,222476,Data Science,Noida,0,13,15
+MGR1454,226864,Engineering,Hyderabad,0,12,20
+MGR1455,208582,Cloud,Pune,0,10,9
+MGR1456,229049,Cloud,Hyderabad,0,10,9
+MGR1457,206194,Finance,Chennai,0,15,14
+MGR1458,226347,Data Science,Hyderabad,0,14,16
+MGR1459,210827,HR,Mumbai,0,8,9
+MGR1460,219250,Support,Chennai,0,13,9
+MGR1461,206434,Cloud,Hyderabad,0,9,16
+MGR1462,201004,Marketing,Bengaluru,0,13,17
+MGR1463,212727,Finance,Noida,0,14,21
+MGR1464,232871,HR,Hyderabad,0,12,8
+MGR1465,232206,Sales,Pune,0,14,14
+MGR1466,228529,Sales,Noida,0,9,20
+MGR1467,207438,Data Science,Pune,0,11,19
+MGR1468,230291,Finance,Pune,0,10,17
+MGR1469,231280,Engineering,Hyderabad,0,14,18
+MGR1470,218735,Finance,Hyderabad,0,10,10
+MGR1471,213541,Support,Noida,0,12,12
+MGR1472,224825,Cloud,Mumbai,0,15,12
+MGR1473,229119,Cloud,Bengaluru,0,9,10
+MGR1474,200236,Engineering,Hyderabad,0,14,10
+MGR1475,222986,Cloud,Noida,0,14,12
+MGR1476,234258,Finance,Noida,0,15,12
+MGR1477,226635,Support,Noida,0,9,20
+MGR1478,218639,Finance,Hyderabad,0,12,13
+MGR1479,234201,Cyber Security,Mumbai,0,15,11
+MGR1480,231831,Cyber Security,Hyderabad,0,11,17
+MGR1481,229896,Finance,Chennai,0,9,15
+MGR1482,228236,Data Science,Pune,0,12,10
+MGR1483,204107,Cloud,Noida,0,14,8
+MGR1484,214750,Sales,Mumbai,0,14,13
+MGR1485,223912,Engineering,Pune,0,13,20
+MGR1486,231632,Marketing,Mumbai,0,13,15
+MGR1487,213367,Data Science,Mumbai,0,10,14
+MGR1488,206644,HR,Hyderabad,0,13,12
+MGR1489,205351,Engineering,Chennai,0,11,17
+MGR1490,208729,Engineering,Mumbai,0,13,15
+MGR1491,213493,Finance,Chennai,0,14,10
+MGR1492,230415,Data Science,Hyderabad,0,12,13
+MGR1493,233157,Marketing,Bengaluru,0,15,19
+MGR1494,228711,Support,Pune,0,11,17
+MGR1495,231541,Cloud,Chennai,0,14,13
+MGR1496,229407,Engineering,Noida,0,14,12
+MGR1497,231704,Marketing,Bengaluru,0,9,13
+MGR1498,204111,Finance,Hyderabad,0,11,22
+MGR1499,218044,Support,Noida,0,10,17
+MGR1500,209759,Support,Hyderabad,0,8,18
