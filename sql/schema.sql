@@ -54,7 +54,7 @@ CREATE TABLE projects (
 
 -- 5. Performance Ratings Table
 CREATE TABLE performance (
-    rating_id INT PRIMARY KEY,
+    rating_id SERIAL PRIMARY KEY,
     employee_id INT NOT NULL,
     review_year INT NOT NULL,
     rating INT NOT NULL CHECK (rating BETWEEN 1 AND 5),

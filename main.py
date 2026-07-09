@@ -8,11 +8,13 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 from src.generators.employee_generator import generate_base_employees
 from src.generators.manager_generator import generate_managers_master
 from src.simulators.career_engine import run_workforce_simulation
+from src.database.export_data import save_dataframe
+from src.database.load_data import load_database
 from src.validators.validate_all import run_all_validations
 
 def main():
     print("="*60)
-    print("      NIMBUSTECH HR SIMULATION ENGINE (PHASE 2)")
+    print("      PEOPLELENS WORKFORCE SIMULATION PIPELINE")
     print("="*60)
     
     # 1. Generate base employees
@@ -22,6 +24,7 @@ def main():
     mgr_base = generate_managers_master(emp_base)
     
     # 3. Run chronological yearly career lifecycles simulation
+    print("\nRunning Career Simulation...")
     (
         employees_df,
         compensation_df,
@@ -32,25 +35,28 @@ def main():
         managers_df
     ) = run_workforce_simulation(emp_base, mgr_base)
     
-    # Create synthetic directory if not exists
-    output_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data/synthetic")
-    os.makedirs(output_dir, exist_ok=True)
+    # 4. Save results to CSVs using the export module
+    print("\nExporting Simulation Tables...")
+    save_dataframe(employees_df, "employees.csv")
+    save_dataframe(managers_df, "managers.csv")
+    save_dataframe(compensation_df, "compensation.csv")
+    save_dataframe(performance_df, "performance.csv")
+    save_dataframe(projects_df, "project_assignments.csv")
+    save_dataframe(learning_df, "learning.csv")
+    save_dataframe(exits_df, "exit_records.csv")
+    print("CSVs exported successfully.")
     
-    # 4. Save results to CSVs
-    print("\nSaving simulation tables to CSV...")
-    employees_df.to_csv(os.path.join(output_dir, "employees.csv"), index=False)
-    managers_df.to_csv(os.path.join(output_dir, "managers.csv"), index=False)
-    compensation_df.to_csv(os.path.join(output_dir, "compensation.csv"), index=False)
-    performance_df.to_csv(os.path.join(output_dir, "performance.csv"), index=False)
-    projects_df.to_csv(os.path.join(output_dir, "project_assignments.csv"), index=False)
-    learning_df.to_csv(os.path.join(output_dir, "learning.csv"), index=False)
-    exits_df.to_csv(os.path.join(output_dir, "exit_records.csv"), index=False)
+    # 5. Load into PostgreSQL database
+    print("\nLoading PostgreSQL Database...")
+    load_database()
     
-    print("CSVs saved successfully.")
-    
-    # 5. Run validation report
+    # 6. Run validation audits
     print("\nExecuting Validation Audits...")
     run_all_validations()
+    
+    print("\n" + "="*60)
+    print("PEOPLELENS WORKFORCE SIMULATION COMPLETE")
+    print("="*60)
 
 if __name__ == '__main__':
     main()
