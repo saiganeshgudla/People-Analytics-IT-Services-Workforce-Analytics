@@ -1,0 +1,26 @@
+{
+  "decision_threshold": 0.93,
+  "train_accuracy": 0.9256,
+  "test_accuracy": 0.0951,
+  "precision": 0.0843,
+  "recall": 1.0,
+  "f1_score": 0.1556,
+  "roc_auc": 0.7005,
+  "avg_precision": 0.214,
+  "confusion_matrix": [
+    [
+      102,
+      7838
+    ],
+    [
+      0,
+      722
+    ]
+  ],
+  "train_size": 26338,
+  "test_size": 8662,
+  "train_attrition_rate": 17.89,
+  "test_attrition_rate": 8.34,
+  "n_iter": 500,
+  "split_strategy": "Time-based: train joining_year <= 2023"
+}

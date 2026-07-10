@@ -1,0 +1,167 @@
+{
+  "generated_at": "2026-07-10T20:15:58.050795",
+  "sections": {
+    "1. Employees": [
+      {
+        "check": "Employee Schema",
+        "passed": true,
+        "detail": "11 required columns present"
+      },
+      {
+        "check": "Employee ID Uniqueness",
+        "passed": true,
+        "detail": "35000 unique IDs confirmed"
+      },
+      {
+        "check": "No Null Values",
+        "passed": true,
+        "detail": "No null values in critical columns"
+      },
+      {
+        "check": "Age Range (21\u201360)",
+        "passed": true,
+        "detail": "All ages within [21, 60]"
+      },
+      {
+        "check": "Gender Values",
+        "passed": true,
+        "detail": "Allowed set {'Other', 'Male', 'Female', 'Non-binary'} respected"
+      },
+      {
+        "check": "Joining Date (No Future)",
+        "passed": true,
+        "detail": "All joining dates are historical"
+      },
+      {
+        "check": "Employee Status Values",
+        "passed": true,
+        "detail": "All statuses valid"
+      }
+    ],
+    "2. Compensation": [
+      {
+        "check": "No Negative Salary",
+        "passed": true,
+        "detail": "All salaries \u2265 0"
+      },
+      {
+        "check": "No Negative Bonus",
+        "passed": true,
+        "detail": "All bonuses \u2265 0"
+      },
+      {
+        "check": "Salary Band Compliance",
+        "passed": true,
+        "detail": "All 5 bands compliant"
+      },
+      {
+        "check": "Effective Date (No Future)",
+        "passed": true,
+        "detail": "All effective dates are historical"
+      },
+      {
+        "check": "Referential Integrity (Emp IDs)",
+        "passed": true,
+        "detail": "All compensation records tied to valid employees"
+      }
+    ],
+    "3. Performance": [
+      {
+        "check": "Performance Rating (1\u20135)",
+        "passed": true,
+        "detail": "All ratings within [1, 5]"
+      },
+      {
+        "check": "Review Year (No Future)",
+        "passed": true,
+        "detail": "All review years \u2264 2026"
+      },
+      {
+        "check": "Referential Integrity (Emp IDs)",
+        "passed": true,
+        "detail": "All performance records tied to valid employees"
+      },
+      {
+        "check": "Promotion Values (Yes/No)",
+        "passed": true,
+        "detail": "All promotion flags are Yes/No"
+      }
+    ],
+    "4. Projects": [
+      {
+        "check": "No Duplicate Assignment Rows",
+        "passed": true,
+        "detail": "42438 rows \u2013 no duplicates"
+      },
+      {
+        "check": "Project Date Order (end \u2265 start)",
+        "passed": true,
+        "detail": "All project dates are logically ordered"
+      },
+      {
+        "check": "Project Start Date (No Future)",
+        "passed": true,
+        "detail": "All project start dates are historical"
+      },
+      {
+        "check": "Billable Flag (Yes/No/Bool)",
+        "passed": true,
+        "detail": "All billable flags are valid (Yes/No or True/False)"
+      },
+      {
+        "check": "Referential Integrity (Emp IDs)",
+        "passed": true,
+        "detail": "All project records tied to valid employees"
+      }
+    ],
+    "5. Learning": [
+      {
+        "check": "Learning Hours (\u2265 0)",
+        "passed": true,
+        "detail": "All learning hours are non-negative"
+      },
+      {
+        "check": "Completion Status Values",
+        "passed": true,
+        "detail": "All statuses within {'Not Started', 'In Progress', 'Completed'}"
+      },
+      {
+        "check": "Completion Date (No Future)",
+        "passed": true,
+        "detail": "All completion dates are historical"
+      },
+      {
+        "check": "Referential Integrity (Emp IDs)",
+        "passed": true,
+        "detail": "All learning records tied to valid employees"
+      }
+    ],
+    "6. Exit Records": [
+      {
+        "check": "Referential Integrity (Emp IDs)",
+        "passed": true,
+        "detail": "All exit records tied to valid employees"
+      },
+      {
+        "check": "Exit Date After Joining Date",
+        "passed": true,
+        "detail": "All exit dates are after corresponding joining dates"
+      },
+      {
+        "check": "Exit Date (No Future)",
+        "passed": true,
+        "detail": "All exit dates are historical"
+      },
+      {
+        "check": "Exit Reason Not Blank",
+        "passed": true,
+        "detail": "All exit records have a reason"
+      },
+      {
+        "check": "Voluntary Flag (Boolean)",
+        "passed": true,
+        "detail": "All voluntary flags are boolean"
+      }
+    ]
+  }
+}
